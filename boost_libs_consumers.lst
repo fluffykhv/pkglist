@@ -83,7 +83,6 @@ games/violetland
 games/wesnoth
 games/widelands
 graphics/blender
-graphics/blender-lts29
 graphics/colmap
 graphics/electricsheep
 graphics/evolvotron
@@ -137,7 +136,6 @@ net-p2p/monero-cli
 net-p2p/namecoin
 net-p2p/namecoin-daemon
 net-p2p/namecoin-utils
-net/ceph14
 net/cpp-pcp-client
 net/fbzmq
 net/grive2
