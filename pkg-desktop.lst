@@ -544,7 +544,6 @@ multimedia/obs-text-pthread
 multimedia/obs-waveform
 multimedia/phonon
 multimedia/phonon-designerplugin
-multimedia/phonon-gstreamer
 multimedia/phonon-vlc
 multimedia/pwcbsd
 multimedia/pwcview
@@ -563,7 +562,6 @@ multimedia/v4l-utils
 multimedia/vlc
 net-im/cutegram
 net-im/finch
-net-im/gitterdone
 net-im/kaccounts-integration
 net-im/kaccounts-providers
 net-im/kaidan
@@ -634,7 +632,6 @@ net/ktnef
 net/libgravatar
 net/libkgapi
 net/libksieve
-net/libkvkontakte
 net/libmaia
 net/libmediawiki
 net/libproxy-kde
@@ -723,7 +720,6 @@ sysutils/kdf
 sysutils/kdialog
 sysutils/kf5-baloo
 sysutils/kf5-kwallet
-sysutils/kfloppy
 sysutils/khelpcenter
 sysutils/kio-fuse
 sysutils/kpmcore
@@ -806,7 +802,6 @@ www/falkon
 www/falkon@all
 www/firefox
 www/firefox-esr
-www/kf5-kdewebkit
 www/kf5-khtml
 www/kf5-kjs
 www/kf5-kjsembed
@@ -818,7 +813,6 @@ www/py-qt5-webengine
 www/qt5-webchannel
 www/qt5-webengine
 www/qt5-webglplugin
-www/qt5-webkit
 www/qt5-websockets
 www/qt5-websockets-qml
 www/qt5-webview

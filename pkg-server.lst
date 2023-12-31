@@ -242,9 +242,9 @@ lang/lfortran
 lang/luajit
 lang/perl5.34
 lang/perl5.36
-lang/php80-extensions
 lang/php81-extensions
 lang/php82-extensions
+lang/php83-extensions
 lang/python
 lang/python2
 lang/python3
@@ -404,7 +404,6 @@ net-mgmt/zabbix64-proxy
 net-mgmt/zabbix64-server
 net-p2p/transmission-cli
 net-p2p/transmission-daemon
-net/asterisk16
 net/asterisk18
 net/bird
 net/chrony
@@ -439,8 +438,6 @@ net/samba416
 net/sngrep
 net/trafshow
 net/wifibox
-net/wireguard
-net/wireguard-kmod
 net/wireguard-tools@all
 net/xrdp
 net/yggdrasil
@@ -566,7 +563,7 @@ sysutils/coreutils
 sysutils/cpu-x
 sysutils/daemontools
 sysutils/debootstrap
-sysutils/devcpu-data
+sysutils/devcpu-microcode
 sysutils/docker-compose
 sysutils/docker-credential-pass
 sysutils/docker-machine
@@ -631,6 +628,7 @@ sysutils/vm-bhyve
 sysutils/vzvol
 sysutils/webmin
 sysutils/xen-tools
+sysutils/zetaback
 sysutils/zfs-periodic
 sysutils/zfs-replicate
 sysutils/zfs-snapshot-clean
@@ -670,7 +668,7 @@ www/darkhttpd
 www/davical@all
 www/drupal7@all
 www/drupal7-wysiwyg@all
-www/drupal9@all
+www/drupal10@all
 www/elinks
 www/free-sa-devel
 www/gallery-dl@all
@@ -700,9 +698,9 @@ www/mod_memcache
 www/mod_mono
 www/mod_mpm_itk
 www/mod_perl2
-www/mod_php80
 www/mod_php81
 www/mod_php82
+www/mod_php83
 www/mod_qos
 www/mod_security
 www/mod_setenvifplus
@@ -727,7 +725,8 @@ www/piwigo@all
 www/pound
 www/privoxy
 www/py-django32@all
-www/py-django41@all
+www/py-django42@all
+www/py-django50@all
 www/py-django-cms@all
 www/py-flask-admin@all
 www/py-graphite-api@all
@@ -760,7 +759,7 @@ www/unit-perl
 www/unit-php@all
 www/unit-python@all
 www/unit-ruby
-www/varnish6
+www/varnish7
 www/webpy@all
 www/wordpress@all
 www/xoops@all

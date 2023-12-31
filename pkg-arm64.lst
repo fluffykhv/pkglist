@@ -567,7 +567,6 @@ lang/kturtle
 lang/lfortran
 lang/luajit
 lang/perl5.36
-lang/php80-extensions
 lang/php81-extensions
 lang/php82-extensions
 lang/php83-extensions
@@ -682,7 +681,6 @@ multimedia/mlt7-qt@all
 multimedia/mlt7-qt@qt5
 multimedia/phonon
 multimedia/phonon-designerplugin
-multimedia/phonon-gstreamer
 multimedia/phonon-vlc
 multimedia/qmmp-plugin-pack-qt5
 multimedia/qmmp-plugin-pack-qt6
@@ -696,7 +694,6 @@ multimedia/subtitlecomposer
 multimedia/vlc
 net-im/cutegram
 net-im/finch
-net-im/gitterdone
 net-im/kaccounts-integration
 net-im/kaccounts-providers
 net-im/kaidan
@@ -798,8 +795,6 @@ net/qt6-networkauth
 net/samba416
 net/smb4k
 net/trafshow
-net/wireguard
-net/wireguard-kmod
 net/wireguard-tools@all
 net/xrdp
 net/yggdrasil
@@ -974,7 +969,6 @@ sysutils/kdf
 sysutils/kdialog
 sysutils/kf5-baloo
 sysutils/kf5-kwallet
-sysutils/kfloppy
 sysutils/khelpcenter
 sysutils/kio-fuse
 sysutils/kpmcore
@@ -1104,7 +1098,6 @@ www/cutelyst
 www/davical@all
 www/drupal7-wysiwyg@all
 www/drupal7@all
-www/drupal9@all
 www/drupal10@all
 www/elinks
 www/epiphany
@@ -1115,7 +1108,6 @@ www/gallery-dl@all
 www/gallery2@all
 www/hiawatha
 www/joomla4@all
-www/kf5-kdewebkit
 www/kf5-khtml
 www/kf5-kjs
 www/kf5-kjsembed
@@ -1141,9 +1133,9 @@ www/mod_memcache
 www/mod_mono
 www/mod_mpm_itk
 www/mod_perl2
-www/mod_php80
 www/mod_php81
 www/mod_php82
+www/mod_php83
 www/mod_qos
 www/mod_security
 www/mod_setenvifplus
@@ -1168,15 +1160,14 @@ www/piwigo@all
 www/plasma5-plasma-browser-integration
 www/py-django-cms@all
 www/py-django32@all
-www/py-django41@all
 www/py-django42@all
+www/py-django50@all
 www/py-flask-admin@all
 www/py-graphite-api@all
 www/py-qt5-webengine
 www/qt5-webchannel
 www/qt5-webengine
 www/qt5-webglplugin
-www/qt5-webkit
 www/qt5-websockets
 www/qt5-websockets-qml
 www/qt5-webview
