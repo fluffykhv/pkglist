@@ -92,6 +92,7 @@ graphics/gource
 graphics/hugin
 graphics/inkscape
 graphics/krita
+graphics/libetonyek01
 graphics/luminance-qt5
 graphics/msl
 graphics/openimageio
@@ -111,6 +112,7 @@ math/curv
 math/cvc5
 math/eclib
 math/heyoka
+math/kig
 math/mlpack
 math/obake
 math/oink
@@ -123,6 +125,7 @@ misc/usd
 misc/visp
 multimedia/aegisub
 multimedia/lms
+multimedia/mkvtoolnix
 multimedia/musikcube
 net-im/chatterino2
 net-mgmt/fastnetmon

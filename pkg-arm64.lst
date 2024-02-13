@@ -27,6 +27,9 @@ astro/indiwebmanagerapp
 astro/kosmindoormap
 astro/kstars
 astro/marble
+audio/alsa-plugins
+audio/alsa-sndio
+audio/alsa-utils
 audio/audiocd-kio
 audio/cantata
 audio/drumstick
@@ -183,6 +186,7 @@ deskutils/semantik
 deskutils/syncthingtray
 deskutils/virt-manager
 deskutils/zanshin
+devel/appstream-qt@all
 devel/arcanist@all
 devel/atf
 devel/bmkdep
@@ -835,6 +839,7 @@ science/step
 security/acme.sh
 security/acmetool
 security/clamav
+security/doas
 security/expiretable
 security/gnupg
 security/gost-engine
@@ -1080,6 +1085,7 @@ textproc/pecl-yaml@all
 textproc/py-chardet@all
 textproc/py-charset-normalizer@all
 textproc/py-libxml2@all
+textproc/py-pdftotext@all
 textproc/py-rich@all
 textproc/py-sphinx-autodoc-typehints@all
 textproc/py-sphinx@all
@@ -1103,6 +1109,7 @@ www/elinks
 www/epiphany
 www/falkon
 www/firefox
+www/foreign-cdm
 www/free-sa-devel
 www/gallery-dl@all
 www/gallery2@all
@@ -1114,6 +1121,7 @@ www/kf5-kjsembed
 www/librewolf
 www/lightsquid
 www/links
+www/linux-widevine-cdm
 www/lynx
 www/mod_auth_gssapi
 www/mod_auth_kerb2
@@ -1249,14 +1257,8 @@ x11-themes/gtk-xfce-engine
 x11-themes/gtk3-oxygen-engine
 x11-themes/gtk3-unico-engine
 x11-themes/kde-icons-black-and-white
-x11-themes/kde-icons-gartoon-blue-svg
-x11-themes/kde-icons-gartoon-svg
-x11-themes/kde-icons-graphite-rade8
-x11-themes/kde-icons-lime-rade8
-x11-themes/kde-icons-lush
 x11-themes/kde-icons-noia
 x11-themes/kde-icons-nuovext2
-x11-themes/kde-icons-nuvola
 x11-themes/kf5-breeze-icons
 x11-themes/kf5-kemoticons
 x11-themes/kf5-kiconthemes
