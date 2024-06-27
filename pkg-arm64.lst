@@ -36,8 +36,6 @@ audio/drumstick
 audio/elisa
 audio/juk
 audio/kid3@all
-audio/kid3@kf5
-audio/kid3@qt5
 audio/kmix
 audio/kwave
 audio/libkcddb
@@ -138,7 +136,6 @@ deskutils/calibre
 deskutils/calindori
 deskutils/coolreader
 deskutils/copyq@all
-deskutils/copyq@qt5
 deskutils/fbreader
 deskutils/grantlee-editor
 deskutils/grantleetheme
@@ -198,7 +195,6 @@ devel/clazy
 devel/cmake
 devel/cmake-doc
 devel/cmake-gui
-devel/cmake-gui@all
 devel/cmakedoc
 devel/dolphin-plugins
 devel/doxygen
@@ -269,7 +265,6 @@ devel/ktextaddons
 devel/kyua
 devel/lazygit
 devel/libclc
-devel/libdbusmenu-qt
 devel/libdbusmenu-qt@all
 devel/liblxqt
 devel/libmaa
@@ -312,7 +307,6 @@ devel/py-tox@all
 devel/py-xdg@all
 devel/pyside2-tools
 devel/pyside2@all
-devel/qca
 devel/qca@all
 devel/qcoro
 devel/qjson
@@ -469,7 +463,6 @@ graphics/gimp-lqr-plugin
 graphics/gimp-refocus-plugin
 graphics/gimp-resynthesizer
 graphics/gmic
-graphics/gmic-qt
 graphics/gmic-qt@all
 graphics/gpu-firmware-amd-kmod@all
 graphics/gpu-firmware-kmod
@@ -570,7 +563,6 @@ lang/kross-interpreters
 lang/kturtle
 lang/lfortran
 lang/luajit
-lang/perl5.36
 lang/php81-extensions
 lang/php82-extensions
 lang/php83-extensions
@@ -638,7 +630,6 @@ math/kig
 math/kmplot
 math/labplot
 math/qalculate-qt@all
-math/qalculate-qt@qt5
 math/rkward
 math/rocs
 misc/artikulate
@@ -682,7 +673,6 @@ multimedia/kf5-kmediaplayer
 multimedia/mlt7
 multimedia/mlt7-glaxnimate
 multimedia/mlt7-qt@all
-multimedia/mlt7-qt@qt5
 multimedia/phonon
 multimedia/phonon-designerplugin
 multimedia/phonon-vlc
@@ -713,7 +703,6 @@ net-im/quaternion
 net-im/qxmpp@all
 net-im/ruqola
 net-im/telegram-cli
-net-im/telegram-desktop
 net-im/telegram-desktop@all
 net-im/telegram-purple
 net-im/telepathy-accounts-signon
@@ -1152,6 +1141,8 @@ www/mod_wsgi4@all
 www/mod_xsendfile
 www/moodle41@all
 www/moodle42@all
+www/moodle43@all
+www/moodle44@all
 www/nextcloud-calendar@all
 www/nextcloud-contacts@all
 www/nextcloud-notes@all
@@ -1184,7 +1175,6 @@ www/redmine50
 www/rubygem-raphael-rails
 www/sarg
 www/smarty@all
-www/smarty2@all
 www/smarty3@all
 www/squid
 www/squid_radius_auth
@@ -1298,7 +1288,6 @@ x11-toolkits/kf5-kwidgetsaddons
 x11-toolkits/kf5-kxmlgui
 x11-toolkits/kproperty
 x11-toolkits/plasma5-kdeplasma-addons
-x11-toolkits/py-qt5-chart
 x11-toolkits/py-qt5-chart@all
 x11-toolkits/py-tkinter@all
 x11-toolkits/qml-box2d
