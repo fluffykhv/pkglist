@@ -351,7 +351,6 @@ devel/zeal
 dns/adns
 dns/adsuck
 dns/bind-tools
-dns/bind916
 dns/bind918
 dns/dnsmasq
 dns/kf5-kdnssd
@@ -452,7 +451,7 @@ graphics/drawpile
 graphics/drm-kmod
 graphics/evince
 graphics/filmulator
-graphics/fotoxx
+graphics/fotocx
 graphics/frei0r-plugins
 graphics/gimp
 graphics/gimp-beautify-plugin
@@ -651,7 +650,6 @@ misc/ktouch
 misc/kwordquiz
 misc/libkeduvocdocument
 misc/mc
-misc/mc-nox11
 misc/parley
 misc/py-powerline-status@all
 misc/qt5-doc
@@ -704,7 +702,6 @@ net-im/qxmpp@all
 net-im/ruqola
 net-im/telegram-cli
 net-im/telegram-desktop@all
-net-im/telegram-purple
 net-im/telepathy-accounts-signon
 net-im/telepathy-logger-qt5
 net-im/telepathy-qt
@@ -717,10 +714,7 @@ net-mgmt/networkmgr
 net-p2p/ktorrent
 net-p2p/libktorrent
 net-p2p/qbittorrent
-net-p2p/transmission
-net-p2p/transmission-cli
-net-p2p/transmission-daemon
-net-p2p/transmission-qt@all
+net-p2p/transmission@all
 net-p2p/transmission-remote-gui
 net/akonadi-calendar
 net/akonadi-contacts
@@ -1005,7 +999,7 @@ sysutils/plasma5-plasma-systemmonitor
 sysutils/plasma5-polkit-kde-agent-1
 sysutils/plasma5-powerdevil
 sysutils/plasma5-systemsettings
-sysutils/polkit-qt
+sysutils/polkit-qt-1
 sysutils/pwd_unmkdb
 sysutils/py-filelock@all
 sysutils/qt5-qtdiag
@@ -1015,8 +1009,8 @@ sysutils/rainbarf
 sysutils/screen
 sysutils/signon-kwallet-extension
 sysutils/signon-plugin-oauth2
-sysutils/signon-qt5
 sysutils/signon-ui
+sysutils/signond
 sysutils/sweeper
 sysutils/symon
 sysutils/terraform
@@ -1115,7 +1109,6 @@ www/lynx
 www/mod_auth_gssapi
 www/mod_auth_kerb2
 www/mod_auth_mysql2
-www/mod_auth_openid
 www/mod_auth_openidc
 www/mod_auth_pam2
 www/mod_auth_pgsql2
@@ -1247,7 +1240,6 @@ x11-themes/gtk-xfce-engine
 x11-themes/gtk3-oxygen-engine
 x11-themes/gtk3-unico-engine
 x11-themes/kde-icons-black-and-white
-x11-themes/kde-icons-noia
 x11-themes/kde-icons-nuovext2
 x11-themes/kf5-breeze-icons
 x11-themes/kf5-kemoticons
@@ -1305,12 +1297,12 @@ x11-toolkits/qt5-uiplugin
 x11-toolkits/qt5-virtualkeyboard
 x11-toolkits/qt5-widgets
 x11-toolkits/shared-desktop-ontologies
-x11-wm/kwinft
 x11-wm/lxqt
 x11-wm/lxqt-panel
 x11-wm/lxqt-session
 x11-wm/plasma5-kdecoration
 x11-wm/plasma5-kwin
+x11-wm/theseus-ship
 x11/coreterminal
 x11/disman
 x11/docker-tray
