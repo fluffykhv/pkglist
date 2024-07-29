@@ -85,8 +85,8 @@ databases/kdb
 databases/kexi
 databases/libiodbc
 databases/memcached
-databases/mysql80-client
-databases/mysql80-server
+databases/mysql84-client
+databases/mysql84-server
 databases/mysqlbackup
 databases/mysqlreport
 databases/mysqlsla
@@ -300,7 +300,6 @@ devel/py-qt5@all
 devel/py-qt6@all
 devel/py-qtbuilder
 devel/py-sip@all
-devel/py-sip4@all
 devel/py-subversion@all
 devel/py-tox@all
 devel/py-xdg@all
@@ -564,6 +563,7 @@ lang/luajit
 lang/php81-extensions
 lang/php82-extensions
 lang/php83-extensions
+lang/php84-extensions
 lang/python
 lang/python2
 lang/python3
@@ -690,7 +690,7 @@ net-im/kaccounts-providers
 net-im/kaidan
 net-im/kopete
 net-im/libaccounts-glib
-net-im/libaccounts-qt5
+net-im/libaccounts-qt@all
 net-im/libsignon-glib
 net-im/neochat
 net-im/pidgin-skypeweb
@@ -1125,6 +1125,7 @@ www/mod_perl2
 www/mod_php81
 www/mod_php82
 www/mod_php83
+www/mod_php84
 www/mod_qos
 www/mod_security
 www/mod_setenvifplus
@@ -1150,7 +1151,6 @@ www/phpvirtualbox@all
 www/piwigo@all
 www/plasma5-plasma-browser-integration
 www/py-django-cms@all
-www/py-django32@all
 www/py-django42@all
 www/py-django50@all
 www/py-flask-admin@all
@@ -1183,7 +1183,6 @@ www/unit-ruby
 www/webpy@all
 www/wordpress@all
 www/xoops@all
-www/zend-framework@all
 www/zenphoto@all
 x11-clocks/kteatime
 x11-clocks/ktimer
