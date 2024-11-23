@@ -29,6 +29,7 @@ databases/grass7
 databases/mongodb50
 databases/sfcgal
 databases/soci
+databases/vsqlite
 deskutils/easystroke
 deskutils/kdepim-runtime
 deskutils/pinot
