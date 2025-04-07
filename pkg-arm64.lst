@@ -716,7 +716,6 @@ misc/qt6-doc
 misc/qt6-examples
 misc/tellico
 multimedia/dragon
-multimedia/gnome-mplayer
 multimedia/gstreamer1-plugins-all
 multimedia/haruna
 multimedia/kaffeine
@@ -762,8 +761,6 @@ net-im/ruqola
 net-im/telegram-cli
 net-im/telegram-desktop@all
 net-im/telepathy-accounts-signon
-net-im/telepathy-logger-qt5
-net-im/telepathy-qt
 net-im/toot
 net-im/toxic
 net-mgmt/hastmon
@@ -817,7 +814,6 @@ net/libgravatar
 net/libkgapi
 net/libksieve
 net/libmaia
-net/libmediawiki
 net/mailcommon
 net/mailimporter
 net/messagelib
@@ -1128,7 +1124,6 @@ textproc/redland-bindings
 textproc/uim-qt5
 textproc/zxing-cpp
 www/adguardhome
-www/choqok
 www/cutelyst
 www/c-icap-modules
 www/davical
@@ -1358,7 +1353,6 @@ x11-toolkits/qt6-quick3d
 x11-toolkits/qt6-quicktimeline
 x11-toolkits/qt6-shadertools
 x11-toolkits/qt6-virtualkeyboard
-x11-toolkits/shared-desktop-ontologies
 x11-wm/lxqt
 x11-wm/lxqt-panel
 x11-wm/lxqt-session
@@ -1371,6 +1365,7 @@ x11/docker-tray
 x11/gtk-app-menu
 x11/kde
 x11/kde-baseapps
+x11/kde-gear
 x11/kdisplay
 x11/kf6-frameworkintegration
 x11/kf6-frameworks
