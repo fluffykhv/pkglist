@@ -1,6 +1,5 @@
 astro/pykep
 audio/guitarix-lv2
-audio/mp3plot
 audio/ncmpcpp
 audio/pamixer
 audio/supercollider
@@ -23,13 +22,11 @@ comms/wsjtx
 comms/wsjtz
 converters/osm2pgrouting
 converters/osm2pgsql
-databases/galera
 databases/galera26
-databases/grass7
+databases/grass8
 databases/mongodb50
 databases/sfcgal
 databases/soci
-databases/vsqlite
 deskutils/easystroke
 deskutils/kdepim-runtime
 deskutils/pinot
@@ -48,8 +45,6 @@ devel/hpx
 devel/ikos
 devel/leatherman
 devel/libcutl
-devel/libiqxmlrpc
-devel/liblas
 devel/liborcus
 devel/libphonenumber
 devel/msp430-debug-stack
@@ -85,7 +80,6 @@ games/wesnoth
 games/widelands
 graphics/blender
 graphics/colmap
-graphics/electricsheep
 graphics/evolvotron
 graphics/fracplanet
 graphics/gnash
@@ -103,7 +97,6 @@ graphics/osg
 graphics/pcl-pointclouds
 graphics/povray37
 graphics/povray38
-irc/ezbounce
 irc/znc
 mail/astroid
 math/adol-c
@@ -124,7 +117,6 @@ math/vowpal_wabbit
 misc/openvdb
 misc/usd
 misc/visp
-multimedia/aegisub
 multimedia/lms
 multimedia/mkvtoolnix
 multimedia/musikcube
@@ -141,7 +133,6 @@ net-p2p/namecoin
 net-p2p/namecoin-daemon
 net-p2p/namecoin-utils
 net/cpp-pcp-client
-net/fbzmq
 net/grive2
 net/kea
 net/libcmis
