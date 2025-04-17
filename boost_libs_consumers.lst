@@ -9,6 +9,7 @@ biology/cufflinks
 biology/dsr-pdb
 biology/haplohseq
 cad/csxcad
+cad/freecad
 cad/openscad
 cad/PrusaSlicer
 chinese/fcitx5-chinese-addons
@@ -47,6 +48,7 @@ devel/leatherman
 devel/libcutl
 devel/liborcus
 devel/libphonenumber
+devel/malloy
 devel/msp430-debug-stack
 devel/pika
 devel/ticcutils
