@@ -27,7 +27,7 @@ comms/linux-rl9-qt5-qtserialport
 converters/linux-rl9-fribidi
 databases/linux-rl9-libtracker-sparql
 databases/linux-rl9-sqlite3
-devel/linux_libusb
+devel/linux_libusb@rl9
 devel/linux-pvs-studio
 devel/linux-rl9-dbus-libs
 devel/linux-rl9-devtools
@@ -148,6 +148,7 @@ textproc/linux-rl9-libstemmer
 textproc/linux-rl9-libxml2
 textproc/linux-rl9-libxslt
 textproc/linux-rl9-qt5-qtxmlpatterns
+www/foreign-cdm
 www/linux-brave
 www/linux-chrome
 www/linux-freetube
@@ -155,6 +156,7 @@ www/linux-rl9-libnghttp2
 www/linux-rl9-qt5-qtwebchannel
 www/linux-rl9-qt5-qtwebsockets
 www/linux-vieb
+www/linux-widevine-cdm
 x11-fonts/linux-rl9-fontconfig
 x11-toolkits/linux-rl9-gtk2
 x11-toolkits/linux-rl9-gtk3
