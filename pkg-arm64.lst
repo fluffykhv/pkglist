@@ -209,7 +209,7 @@ devel/elf-dissector
 devel/eric6
 devel/fnc
 devel/fossil
-devel/gammaray
+devel/gammaray@all
 devel/gdb
 devel/git
 devel/gitg
@@ -1207,7 +1207,7 @@ www/qt6-webengine
 www/qt6-websockets
 www/qt6-webview
 www/qutebrowser
-www/redmine51
+www/redmine60
 www/rubygem-raphael-rails
 www/sarg
 www/smarty
