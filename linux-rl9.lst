@@ -143,6 +143,7 @@ security/linux-rl9-nettle
 security/linux-rl9-nss
 security/linux-rl9-p11-kit
 security/linux-rl9-trousers
+sysutils/linux-miniconda-installer
 textproc/linux-rl9-expat
 textproc/linux-rl9-libstemmer
 textproc/linux-rl9-libxml2
