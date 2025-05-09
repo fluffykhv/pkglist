@@ -11,7 +11,9 @@ biology/haplohseq
 cad/csxcad
 cad/freecad
 cad/kicad
+cad/kicad-devel
 cad/openscad
+cad/openscad-devel
 cad/PrusaSlicer
 chinese/fcitx5-chinese-addons
 chinese/libime
