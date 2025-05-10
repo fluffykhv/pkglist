@@ -39,7 +39,6 @@ devel/avro-cpp
 devel/axmldec
 devel/codeblocks
 devel/collada-dom
-devel/cpp-hocon
 devel/cpp-netlib
 devel/fbthrift
 devel/folly
@@ -47,7 +46,6 @@ devel/gdb
 devel/heaptrack
 devel/hpx
 devel/ikos
-devel/leatherman
 devel/libcutl
 devel/liborcus
 devel/libphonenumber
@@ -160,7 +158,6 @@ science/votca
 security/botan2
 security/i2pd
 security/spass
-sysutils/facter
 sysutils/frand
 sysutils/glogg
 sysutils/logstalgia
