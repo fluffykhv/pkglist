@@ -135,7 +135,6 @@ net-p2p/monero-cli
 net-p2p/namecoin
 net-p2p/namecoin-daemon
 net-p2p/namecoin-utils
-net/cpp-pcp-client
 net/grive2
 net/kea
 net/libcmis
@@ -166,7 +165,6 @@ sysutils/frand
 sysutils/glogg
 sysutils/logstalgia
 sysutils/nix
-sysutils/pxp-agent
 sysutils/twmn
 textproc/libixion
 textproc/libkolabxml
