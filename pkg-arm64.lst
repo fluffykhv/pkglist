@@ -110,11 +110,11 @@ databases/phpminiadmin
 databases/phpmyadmin
 databases/phpmyadmin5
 databases/phppgadmin
-databases/postgresql16-contrib
-databases/postgresql16-plperl
-databases/postgresql16-plpython
-databases/postgresql16-pltcl
-databases/postgresql16-server
+databases/postgresql17-contrib
+databases/postgresql17-plperl
+databases/postgresql17-plpython
+databases/postgresql17-pltcl
+databases/postgresql17-server
 databases/proftpd-mod_sql_mysql
 databases/proftpd-mod_sql_odbc
 databases/proftpd-mod_sql_postgres
@@ -981,7 +981,6 @@ sysutils/desktop-installer
 sysutils/devd-mount
 sysutils/edid-decode
 sysutils/ezjail
-sysutils/facter
 sysutils/filelight
 sysutils/froxlor
 sysutils/getssl
