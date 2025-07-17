@@ -53,6 +53,7 @@ devel/malloy
 devel/msp430-debug-stack
 devel/pika
 devel/ticcutils
+devel/trellis
 devel/vera++
 dns/powerdns
 dns/powerdns-recursor
