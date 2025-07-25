@@ -11,10 +11,8 @@ devel/jetbrains-goland
 devel/jetbrains-phpstorm
 devel/jetbrains-pty4j
 devel/jetbrains-webstorm
-devel/llvm10
 devel/llvm11
 devel/llvm12
-games/OpenDiablo2
 games/alienarena
 games/flightgear
 games/flightgear-aircraft
@@ -50,7 +48,6 @@ games/wesnoth
 graphics/ephoto
 graphics/lazpaint@all
 graphics/py-svgwrite@all
-lang/gcc9
 net-mgmt/icingaweb2-module-idoreports@all
 net-mgmt/icingaweb2-module-pdfexport@all
 net-mgmt/icingaweb2-module-reporting@all

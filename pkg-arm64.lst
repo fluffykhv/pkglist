@@ -11,6 +11,7 @@ archivers/ark
 archivers/dpkg
 archivers/kf6-karchive
 archivers/lxqt-archiver
+archivers/pecl-rar
 archivers/php-zstd
 archivers/ppmd
 archivers/quazip@all
@@ -59,6 +60,8 @@ audio/pulseaudio-module-sndio
 audio/pulseaudio-module-xrdp
 audio/pulseaudio-qt
 audio/quimup
+audio/sdl2_mixer
+audio/sdl2_sound
 audio/sonivox-eas
 audio/spotify-qt
 audio/strawberry
@@ -196,6 +199,7 @@ devel/atf
 devel/bmkdep
 devel/boost-all
 devel/boost-python-libs@all
+devel/build2
 devel/ccache
 devel/cervisia
 devel/clazy
@@ -271,8 +275,10 @@ devel/kpublictransport
 devel/ktextaddons
 devel/kyua
 devel/lazygit
+devel/libayatana-appindicator
 devel/libclc
 devel/libdbusmenu-qt@all
+devel/libev
 devel/liblxqt
 devel/libmaa
 devel/libphonenumber
@@ -292,6 +298,7 @@ devel/nspr
 devel/okteta
 devel/paexec
 devel/pear
+devel/pecl-ev
 devel/phabricator
 devel/php-composer
 devel/plasma6-kwrited
@@ -400,6 +407,8 @@ editors/lazarus-qt6
 editors/lazarus-qt6-devel
 editors/libreoffice
 editors/libreoffice-i18n
+editors/le
+editors/microsoft-edit
 editors/ne
 editors/neovim
 editors/neovim-qt
@@ -417,7 +426,6 @@ emulators/wine-proton
 filesystems/dsbmc
 filesystems/dsbmc-cli
 filesystems/kio-fuse
-filesystems/vzvol
 filesystems/zfsnap
 filesystems/zfsnap2
 filesystems/zfstools
@@ -553,6 +561,7 @@ graphics/mesa-gallium-vdpau
 graphics/mesa-gallium-xa
 graphics/okular
 graphics/ospray-studio
+graphics/p5-Image-Imlib2
 graphics/pecl-imagick
 graphics/peruse
 graphics/photivo
@@ -564,6 +573,7 @@ graphics/poppler-glib
 graphics/poppler-qt5
 graphics/poppler-qt6
 graphics/poppler-utils
+graphics/py-graphviz
 graphics/py-openshadinglanguage
 graphics/qt5-3d
 graphics/qt5-graphicaleffects
@@ -580,6 +590,10 @@ graphics/qt6-svg
 graphics/qt6-wayland
 graphics/rawstudio
 graphics/rawtherapee
+graphics/sdl2_gfx
+graphics/sdl2_gpu
+graphics/sdl2_image
+graphics/sdl2_ttf
 graphics/seexpr
 graphics/skanlite
 graphics/skanpage
@@ -598,7 +612,7 @@ irc/weechat
 japanese/kiten
 lang/duktape
 lang/fpc
-lang/kross-interpreters
+lang/gawk
 lang/kturtle
 lang/lfortran
 lang/luajit
@@ -606,6 +620,7 @@ lang/php81-extensions
 lang/php82-extensions
 lang/php83-extensions
 lang/php84-extensions
+lang/php85-extensions
 lang/python
 lang/python2
 lang/python3
@@ -755,7 +770,9 @@ net-im/toot
 net-im/toxic
 net-mgmt/hastmon
 net-mgmt/iftop
+net-mgmt/kf6-networkmanager-qt
 net-mgmt/mac-telnet
+net-mgmt/networkmanager-shim
 net-mgmt/networkmgr
 net-p2p/ktorrent
 net-p2p/libktorrent
@@ -813,6 +830,7 @@ net/onedrive
 net/openldap26-server
 net/openntpd
 net/openradius
+net/p5-IO-Socket-IP
 net/phpldapadmin
 net/pimcommon
 net/proftpd-mod_ldap
@@ -824,6 +842,7 @@ net/qt6-coap
 net/qt6-mqtt
 net/qt6-networkauth
 net/samba419
+net/sdl2_net
 net/smb4k
 net/spoofdpi
 net/trafshow
@@ -850,6 +869,7 @@ print/epson-inkjet-printer-escpr2
 print/hplip-plugin
 print/kde_poster
 print/plasma6-print-manager
+print/py-fonttools
 print/py-frescobaldi
 print/qt5-printsupport
 print/qt6-pdf
@@ -875,6 +895,7 @@ security/gnupg
 security/gost-engine
 security/gpgme
 security/gpg-gui
+security/keepassxc
 security/keychain
 security/keysmith
 security/kf6-kdesu
@@ -932,7 +953,7 @@ security/py-certbot-dns-rfc2136
 security/py-certbot-dns-route53
 security/py-certbot-dns-sakuracloud
 security/py-certbot-nginx
-security/py-gpgme
+security/py-gpg
 security/qtkeychain@all
 security/sshguard
 security/ssl-admin
@@ -1029,7 +1050,6 @@ sysutils/pftables
 sysutils/pftop
 sysutils/pidof
 sysutils/plasma6-discover
-sysutils/plasma6-drkonqi
 sysutils/plasma6-kde-cli-tools
 sysutils/plasma6-kinfocenter
 sysutils/plasma6-kmenuedit
@@ -1049,6 +1069,7 @@ sysutils/qt5-qtdiag
 sysutils/qt5-qtpaths
 sysutils/qt5-qtplugininfo
 sysutils/rainbarf
+sysutils/sanoid
 sysutils/screen
 sysutils/signond
 sysutils/signon-kwallet-extension
@@ -1060,6 +1081,7 @@ sysutils/terraform
 sysutils/tmate
 sysutils/tmux
 sysutils/tmux-mem-cpu-load
+sysutils/tmux-xpanes
 sysutils/ttyload
 sysutils/unetbootin
 sysutils/usermin
@@ -1084,6 +1106,7 @@ textproc/fcitx-m17n
 textproc/fcitx-qt5
 textproc/fcitx-table-other
 textproc/hyphen
+textproc/intltool
 textproc/jade
 textproc/kdiff3
 textproc/kf6-kcodecs
@@ -1093,17 +1116,18 @@ textproc/kompare
 textproc/kreport
 textproc/libkolabxml
 textproc/libkomparediff2
+textproc/libxml2-python
 textproc/markdownpart
 textproc/minixmlto
 textproc/openjade
 textproc/pecl-yaml
 textproc/py-chardet
 textproc/py-charset-normalizer
-textproc/py-libxml2
 textproc/py-pdftotext
 textproc/py-rich
 textproc/py-sphinx
 textproc/py-sphinx-autodoc-typehints
+textproc/py-tomli
 textproc/qt5-xml
 textproc/qt5-xmlpatterns
 textproc/raptor2
@@ -1111,6 +1135,7 @@ textproc/rasqal
 textproc/redland
 textproc/redland-bindings
 textproc/uim-qt5
+textproc/yelp-tools
 textproc/zxing-cpp
 www/adguardhome
 www/cutelyst
@@ -1124,6 +1149,7 @@ www/free-sa-devel
 www/gallery2
 www/gallery-dl
 www/hiawatha
+www/http-parser
 www/joomla4
 www/lightsquid
 www/links
@@ -1171,7 +1197,7 @@ www/phpvirtualbox
 www/piwigo
 www/plasma6-plasma-browser-integration
 www/py-django42
-www/py-django50
+www/py-django51
 www/py-django-cms
 www/py-flask-admin
 www/py-graphite-api
@@ -1239,8 +1265,10 @@ x11-fonts/fnt
 x11-fonts/font-awesome
 x11-fonts/font-gost
 x11-fonts/freefont-ttf
+x11-fonts/gentium
 x11-fonts/gentium-basic
-x11-fonts/gentium-plus
+x11-fonts/gentium-book
+x11-fonts/gentium-plus-compact
 x11-fonts/google-fonts
 x11-fonts/hack-font
 x11-fonts/inconsolata-ttf
@@ -1366,7 +1394,9 @@ x11/kf6-krunner
 x11/kf6-kwindowsystem
 x11/konsole
 x11/libfakekey
+x11/lightdm-gtk-greeter
 x11/lightdm-gtk-greeter-settings
+x11/lightdm-kde-greeter
 x11/lxqt-about
 x11/lxqt-globalkeys
 x11/lxqt-runner

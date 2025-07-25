@@ -41,6 +41,7 @@ ftp/wget
 graphics/blender
 graphics/digikam
 irc/quassel
+lang/gawk
 lang/php83-extensions
 lang/php84-extensions
 lang/python
@@ -92,6 +93,7 @@ shells/zsh-navigation-tools
 shells/zsh-syntax-highlighting
 sysutils/htop
 sysutils/pv
+sysutils/sanoid
 sysutils/tmux
 sysutils/tmux-mem-cpu-load
 textproc/en-aspell
