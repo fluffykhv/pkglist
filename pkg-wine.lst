@@ -3,9 +3,8 @@ emulators/wine-devel
 emulators/wine-mono
 emulators/wine-mono-devel
 emulators/wine-proton
-emulators/wine8
 emulators/winetricks
 games/linux-steam-utils
-games/suyimazu
+games/mizuma
 graphics/mesa-dri
 graphics/mesa-libs
