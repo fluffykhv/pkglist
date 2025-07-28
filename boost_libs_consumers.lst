@@ -136,6 +136,7 @@ net-p2p/namecoin-daemon
 net-p2p/namecoin-utils
 net/grive2
 net/kea
+net/kea-devel
 net/libcmis
 net/mvfst
 net/pktanon
