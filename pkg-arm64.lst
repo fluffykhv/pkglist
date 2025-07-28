@@ -209,7 +209,6 @@ devel/cmake-gui
 devel/dolphin-plugins
 devel/doxygen
 devel/elf-dissector
-devel/eric6
 devel/fnc
 devel/fossil
 devel/gammaray@all
@@ -873,7 +872,6 @@ print/py-frescobaldi
 print/qt5-printsupport
 print/qt6-pdf
 russian/aspell
-russian/eric6
 russian/hunspell
 russian/hyphen
 russian/mythes
