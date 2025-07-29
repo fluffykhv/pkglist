@@ -39,6 +39,10 @@ audio/juk
 audio/kid3@all
 audio/kmix
 audio/kwave
+audio/libcanberra-gstreamer
+audio/libcanberra-gtk2
+audio/libcanberra-gtk4
+audio/libcanberra-pulse
 audio/libkcddb
 audio/libkcompactdisc
 audio/libmysofa
