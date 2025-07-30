@@ -645,6 +645,7 @@ mail/lookout
 mail/mutt
 mail/neomutt
 mail/nextcloud-mail
+mail/notmuch-mutt
 mail/opensmtpd
 mail/opensmtpd-extras
 mail/opensmtpd-filter-rspamd
