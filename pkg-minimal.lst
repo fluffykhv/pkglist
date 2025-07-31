@@ -22,9 +22,17 @@ devel/boost-all
 devel/ccache
 devel/cmake
 devel/git@all
+devel/git-delta
 devel/git-extras
+devel/git-graph
+devel/git-gui
 devel/git-lab
+devel/git-lfs
+devel/git-repo-manager
+devel/git-subrepo
 devel/git-tui
+devel/git-who
+devel/git-workspace
 devel/py-pip
 devel/libuv
 devel/py-wheel
