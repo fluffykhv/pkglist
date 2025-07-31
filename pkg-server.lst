@@ -123,7 +123,6 @@ devel/pear
 devel/phabricator
 devel/php-composer
 devel/py-apipkg
-devel/py-atomicwrites
 devel/py-buildbot
 devel/py-buildbot-console-view
 devel/py-buildbot-grid-view
