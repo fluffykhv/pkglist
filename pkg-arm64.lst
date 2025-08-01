@@ -851,7 +851,6 @@ net/qt5-networkauth
 net/qt6-coap
 net/qt6-mqtt
 net/qt6-networkauth
-net/samba419
 net/sdl2_net
 net/smb4k
 net/spoofdpi
