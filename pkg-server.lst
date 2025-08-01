@@ -215,6 +215,7 @@ filesystems/zfs-snapshot-clean
 filesystems/zfs-snapshot-mgmt
 filesystems/zfs-stats
 filesystems/zfs-stats-lite
+filesystems/zrepl
 ftp/curl
 ftp/proftpd-mod_vroot
 ftp/wget
@@ -640,7 +641,6 @@ sysutils/zetaback
 sysutils/znapzend
 sysutils/zogftw
 sysutils/zrep
-sysutils/zrepl
 textproc/apache-solr
 textproc/bat
 textproc/en-aspell
