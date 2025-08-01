@@ -41,7 +41,7 @@ audio/kmix
 audio/kwave
 audio/libcanberra-gstreamer
 audio/libcanberra-gtk2
-audio/libcanberra-gtk4
+audio/libcanberra-gtk3
 audio/libcanberra-pulse
 audio/libkcddb
 audio/libkcompactdisc
