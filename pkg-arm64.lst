@@ -199,7 +199,6 @@ deskutils/zanshin
 devel/appstream-qt@all
 devel/arcanist
 devel/atf
-devel/bmkdep
 devel/boost-all
 devel/boost-python-libs@all
 devel/build2
