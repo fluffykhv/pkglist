@@ -1,0 +1,7 @@
+converters/iconv-extra
+java/apache-commons-logging
+lang/fpc-source
+net-mgmt/networkmgr
+security/ca_root_nss
+sysutils/bareos-client
+www/mod_dnssd
