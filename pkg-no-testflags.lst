@@ -3,8 +3,11 @@ java/apache-commons-logging
 lang/fpc-source
 net-mgmt/networkmgr
 net-p2p/transmission-remote-gui@all
+net/freebsd-uucp
 security/ca_root_nss
 sysutils/bareos-client
+sysutils/bacula13-client
+sysutils/bacula15-client
 www/mod_dnssd
 x11-fm/doublecmd@all
 x11/lightdm-gtk-greeter
