@@ -7,3 +7,4 @@ security/ca_root_nss
 sysutils/bareos-client
 www/mod_dnssd
 x11-fm/doublecmd@all
+x11/lightdm-gtk-greeter
