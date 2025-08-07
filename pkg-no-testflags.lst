@@ -1,6 +1,8 @@
 converters/iconv-extra
 java/apache-commons-logging
 lang/fpc-source
+net-mgmt/nagios-check_bacula13
+net-mgmt/nagios-check_bacula15
 net-mgmt/networkmgr
 net-p2p/transmission-remote-gui@all
 net/freebsd-uucp
