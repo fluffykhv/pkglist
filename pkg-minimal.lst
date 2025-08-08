@@ -24,6 +24,7 @@ devel/cmake
 devel/git@all
 devel/git-delta
 devel/git-extras
+devel/git-filter-repo
 devel/git-graph
 devel/git-gui
 devel/git-lab

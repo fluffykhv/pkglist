@@ -87,6 +87,7 @@ devel/fossil
 devel/gdb
 devel/git
 devel/git-extras
+devel/git-filter-repo
 devel/git-lfs
 devel/glibmm
 devel/glibmm26
@@ -103,6 +104,10 @@ devel/llvm14
 devel/llvm15
 devel/llvm16
 devel/llvm17
+devel/llvm18
+devel/llvm19
+devel/llvm20
+devel/llvm21
 devel/maven
 devel/mercurial
 devel/meson
