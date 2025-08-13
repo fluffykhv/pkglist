@@ -534,6 +534,7 @@ security/py-certbot-dns-sakuracloud
 security/py-certbot-nginx
 security/py-gpg
 security/py-mkpasswd
+security/spass
 security/sshguard
 security/ssl-admin
 security/sudo

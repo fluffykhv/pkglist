@@ -964,6 +964,7 @@ security/py-certbot-nginx
 security/py-gpg
 security/py-mkpasswd
 security/qtkeychain@all
+security/spass-qt5
 security/sshguard
 security/ssl-admin
 security/sudo
