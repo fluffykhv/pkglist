@@ -533,6 +533,7 @@ security/py-certbot-dns-route53
 security/py-certbot-dns-sakuracloud
 security/py-certbot-nginx
 security/py-gpg
+security/py-mkpasswd
 security/sshguard
 security/ssl-admin
 security/sudo
