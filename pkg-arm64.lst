@@ -203,7 +203,6 @@ devel/boost-all
 devel/boost-python-libs@all
 devel/build2
 devel/ccache
-devel/cervisia
 devel/clazy
 devel/cmake
 devel/cmakedoc

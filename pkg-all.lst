@@ -218,7 +218,6 @@ devel/bmkdep
 devel/boost-all
 devel/boost-python-libs@all
 devel/ccache
-devel/cervisia
 devel/clazy
 devel/clinfo
 devel/cmake

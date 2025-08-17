@@ -95,7 +95,6 @@ graphics/linux-c7-libepoxy
 graphics/linux-c7-libglvnd
 graphics/linux-c7-librsvg2
 graphics/linux-c7-png
-graphics/linux-c7-sdl_image
 graphics/linux-c7-sdl_ttf
 graphics/linux-c7-tiff
 graphics/linux-c7-wayland
@@ -103,13 +102,7 @@ japanese/slimeforest
 java/linux-oracle-jdk18
 java/linux-oracle-jre18
 lang/linux-c7-tcl85
-lang/linux-dotnet-runtime
-lang/linux-dotnet-sdk
-lang/linux-dotnet10-runtime
-lang/linux-dotnet11-runtime
-lang/linux-dotnet11-sdk
 mail/mulberry
-math/matlab-installer
 misc/opencyc
 multimedia/linux-c7-libtheora
 multimedia/linux-c7-libv4l
