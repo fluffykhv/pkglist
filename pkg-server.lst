@@ -341,6 +341,7 @@ misc/deco
 misc/far2l
 misc/freebsd-doc-all
 misc/mc@all
+misc/pastebinit
 misc/py-powerline-status
 misc/sfm
 net-im/finch
