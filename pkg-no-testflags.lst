@@ -1,9 +1,11 @@
 converters/iconv-extra
+graphics/lazpaint@all
 java/apache-commons-logging
 lang/fpc-source
 net-mgmt/nagios-check_bacula13
 net-mgmt/nagios-check_bacula15
 net-mgmt/networkmgr
+net-p2p/awgg@all
 net-p2p/transmission-remote-gui@all
 net/freebsd-uucp
 security/ca_root_nss
@@ -12,4 +14,5 @@ sysutils/bacula13-client
 sysutils/bacula15-client
 www/mod_dnssd
 x11-fm/doublecmd@all
+x11/gdm
 x11/lightdm-gtk-greeter
