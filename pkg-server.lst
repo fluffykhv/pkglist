@@ -196,12 +196,12 @@ dns/nss_resinit
 dns/powerdns
 dns/powerdns-recursor
 dns/unbound
-editirs/nano
 editors/hexedit
 editors/le
 editors/libreoffice
 editors/lite
 editors/microsoft-edit
+editors/nano
 editors/ne
 editors/neovim
 editors/turbo
