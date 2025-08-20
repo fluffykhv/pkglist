@@ -401,6 +401,7 @@ dns/nss_resinit
 dns/powerdns
 dns/powerdns-recursor
 dns/unbound
+editirs/nano
 editors/calligra
 editors/calligraplan
 editors/focuswriter
@@ -413,9 +414,11 @@ editors/lazarus-qt5
 editors/lazarus-qt5-devel
 editors/lazarus-qt6
 editors/lazarus-qt6-devel
+editors/le
 editors/libreoffice
 editors/libreoffice-i18n
-editors/le
+editors/lite
+editors/microsoft-edit
 editors/microsoft-edit
 editors/ne
 editors/neovim

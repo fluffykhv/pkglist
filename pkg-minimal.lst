@@ -43,8 +43,14 @@ devel/ruby-gems
 dns/bind-tools
 dns/nss_mdns
 dns/nss_resinit
+editirs/nano
+editors/le
 editors/libreoffice
+editors/lite
+editors/microsoft-edit
+editors/ne
 editors/turbo
+editors/vim
 ftp/curl
 ftp/wget
 graphics/blender
