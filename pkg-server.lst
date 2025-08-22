@@ -369,6 +369,7 @@ net-mgmt/icingaweb2-module-reactbundle
 net-mgmt/icingaweb2-module-vsphere
 net-mgmt/icinga-php-library
 net-mgmt/iftop
+net-mgmt/librenms
 net-mgmt/mac-telnet
 net-mgmt/monitoring-plugins
 net-mgmt/mrtg
