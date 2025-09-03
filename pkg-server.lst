@@ -373,7 +373,6 @@ net-mgmt/librenms
 net-mgmt/mac-telnet
 net-mgmt/monitoring-plugins
 net-mgmt/mrtg
-net-mgmt/nagcon
 net-mgmt/nagios
 net-mgmt/nagios4
 net-mgmt/nagiosgraph

@@ -59,7 +59,7 @@ sysutils/lxqt-admin
 sysutils/lxqt-config
 sysutils/pc-networkmanager
 www/chromium
-www/gitlab-ce
+www/gitlab@all
 www/ungoogled-chromium
 x11-fm/doublecmd@all
 x11-fm/nemo
