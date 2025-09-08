@@ -1,4 +1,7 @@
 converters/iconv-extra
+games/quake-data
+games/quake2-data
+games/quake3-data
 graphics/lazpaint@all
 java/apache-commons-logging
 lang/fpc-source

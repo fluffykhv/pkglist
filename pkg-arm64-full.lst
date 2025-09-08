@@ -1141,7 +1141,7 @@ www/mod_qos
 www/mod_security
 www/mod_setenvifplus
 www/mod_webauth
-www/mod_wsgi4@all
+www/mod_wsgi@all
 www/mod_xsendfile
 www/moodle41@all
 www/moodle42@all
