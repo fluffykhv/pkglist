@@ -57,11 +57,11 @@ databases/phpmyadmin
 databases/phpmyadmin5
 databases/phppgadmin
 databases/plpgsql_check
-databases/postgresql15-contrib
-databases/postgresql15-plperl
-databases/postgresql15-plpython
-databases/postgresql15-pltcl
-databases/postgresql15-server
+databases/postgresql17-contrib
+databases/postgresql17-plperl
+databases/postgresql17-plpython
+databases/postgresql17-pltcl
+databases/postgresql17-server
 databases/proftpd-mod_sql_mysql
 databases/proftpd-mod_sql_odbc
 databases/proftpd-mod_sql_postgres
