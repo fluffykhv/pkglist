@@ -458,7 +458,6 @@ dns/powerdns
 dns/powerdns-recursor
 dns/unbound
 editors/calligra
-editors/calligraplan
 editors/emacs@all
 editors/focuswriter
 editors/fpc-ide
