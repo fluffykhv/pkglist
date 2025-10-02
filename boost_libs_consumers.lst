@@ -157,7 +157,7 @@ science/rdkit
 science/rmf
 science/simgrid
 science/votca
-security/botan2
+security/botan3
 security/i2pd
 security/spass
 sysutils/frand
