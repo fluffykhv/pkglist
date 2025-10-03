@@ -377,7 +377,6 @@ devel/qt6-tools
 devel/qt6-translations
 devel/qtcreator
 devel/qt-maybe
-devel/radare2
 devel/rttr
 devel/ruby-gems
 devel/samurai
@@ -780,7 +779,6 @@ net-im/telegram-desktop@all
 net-im/telepathy-accounts-signon
 net-im/toot
 net-im/toxic
-net-mgmt/hastmon
 net-mgmt/iftop
 net-mgmt/kf6-networkmanager-qt
 net-mgmt/mac-telnet
@@ -1059,7 +1057,6 @@ sysutils/pam_xdg
 sysutils/password-store
 sysutils/pass-otp
 sysutils/pass-update
-sysutils/pfstat
 sysutils/pftables
 sysutils/pftop
 sysutils/pidof
@@ -1090,7 +1087,6 @@ sysutils/signon-kwallet-extension
 sysutils/signon-plugin-oauth2
 sysutils/signon-ui
 sysutils/sweeper
-sysutils/symon
 sysutils/terraform
 sysutils/tmate
 sysutils/tmux

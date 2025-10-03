@@ -561,7 +561,6 @@ net-im/telepathy-accounts-signon
 net-im/tokodon
 net-im/toot
 net-im/toxic
-net-mgmt/hastmon
 net-p2p/ktorrent
 net-p2p/libktorrent
 net-p2p/qbittorrent

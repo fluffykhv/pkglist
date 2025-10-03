@@ -907,7 +907,6 @@ net-mgmt/argus3
 net-mgmt/argus3-clients
 net-mgmt/arpwatch
 net-mgmt/dhcdrop
-net-mgmt/hastmon
 net-mgmt/icinga-php-library@all
 net-mgmt/icinga2
 net-mgmt/icingaweb2-module-businessprocess@all
@@ -1338,7 +1337,6 @@ sysutils/neofetch
 sysutils/openzfs
 sysutils/osinfo-db-tools
 sysutils/pam_xdg
-sysutils/pfstat
 sysutils/pftables
 sysutils/pftop
 sysutils/pidof
@@ -1374,7 +1372,6 @@ sysutils/signon-plugin-oauth2
 sysutils/signon-qt5
 sysutils/signon-ui
 sysutils/sweeper
-sysutils/symon
 sysutils/terraform
 sysutils/tmate
 sysutils/tmux
