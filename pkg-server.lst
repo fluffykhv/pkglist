@@ -656,6 +656,7 @@ sysutils/py-glances
 sysutils/racktables
 sysutils/rainbarf
 sysutils/screen
+sysutils/sysctltui
 sysutils/terraform
 sysutils/tmate
 sysutils/tmux

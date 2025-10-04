@@ -1087,6 +1087,7 @@ sysutils/signon-kwallet-extension
 sysutils/signon-plugin-oauth2
 sysutils/signon-ui
 sysutils/sweeper
+sysutils/sysctltui
 sysutils/terraform
 sysutils/tmate
 sysutils/tmux
