@@ -211,6 +211,7 @@ devel/cmake-doc
 devel/cmake-gui
 devel/dolphin-plugins
 devel/doxygen
+devel/efivar
 devel/elf-dissector
 devel/fnc
 devel/fossil
@@ -1016,6 +1017,8 @@ sysutils/edid-decode
 sysutils/ezjail
 sysutils/filelight
 sysutils/froxlor
+sysutils/fwupd
+sysutils/fwupd-efi
 sysutils/getssl
 sysutils/gotop
 sysutils/hatop

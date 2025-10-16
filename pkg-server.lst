@@ -82,6 +82,7 @@ devel/boost-all
 devel/boost-python-libs
 devel/ccache
 devel/cmake
+devel/efivar
 devel/fnc
 devel/fossil
 devel/gdb
@@ -617,6 +618,8 @@ sysutils/docker-machine
 sysutils/edk2
 sysutils/ezjail
 sysutils/froxlor
+sysutils/fwupd
+sysutils/fwupd-efi
 sysutils/getssl
 sysutils/gotop
 sysutils/hatop
