@@ -4,6 +4,7 @@ games/quake2-data
 games/quake3-data
 graphics/lazpaint@all
 java/apache-commons-logging
+lang/fpc-devel-source
 lang/fpc-source
 net-mgmt/nagios-check_bacula13
 net-mgmt/nagios-check_bacula15
