@@ -452,7 +452,6 @@ net-mgmt/zabbix74-proxy
 net-mgmt/zabbix74-server
 net-p2p/transmission-components@all
 net/amqpcat
-net/asterisk18
 net/asterisk20
 net/asterisk22
 net/chrony
