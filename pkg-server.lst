@@ -606,6 +606,7 @@ sysutils/bvm
 sysutils/cbsd
 sysutils/cdrtools
 sysutils/colorize
+sysutils/conan
 sysutils/coreutils
 sysutils/cpu-microcode@all
 sysutils/cpu-x
