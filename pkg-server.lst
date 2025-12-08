@@ -711,6 +711,8 @@ www/lightsquid
 www/lighttpd
 www/links
 www/lynx
+www/mattermost-server
+www/mattermost-webapp
 www/mod_authn_dovecot
 www/mod_auth_gssapi
 www/mod_auth_kerb2
