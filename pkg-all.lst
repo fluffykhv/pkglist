@@ -457,6 +457,7 @@ dns/nss_resinit
 dns/powerdns
 dns/powerdns-recursor
 dns/unbound
+dns/vizone
 editors/calligra
 editors/emacs@all
 editors/focuswriter
