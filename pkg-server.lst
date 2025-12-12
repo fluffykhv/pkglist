@@ -645,6 +645,7 @@ sysutils/munin-node
 sysutils/nagios-statd
 sysutils/ncdu
 sysutils/neofetch
+sysutils/opentofu
 sysutils/osinfo-db-tools
 sysutils/pam_xdg
 sysutils/pftables
@@ -662,6 +663,10 @@ sysutils/rainbarf
 sysutils/screen
 sysutils/sysctltui
 sysutils/terraform
+sysutils/terraform-docs
+sysutils/terraform-provider-gridscale
+sysutils/terraform-provider-vultr
+sysutils/terraform-switcher
 sysutils/tmate
 sysutils/tmux
 sysutils/tmux-mem-cpu-load
