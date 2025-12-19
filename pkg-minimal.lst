@@ -116,6 +116,7 @@ textproc/en-aspell
 textproc/en-hunspell
 textproc/en-mythes
 textproc/hyphen
+textproc/jq
 textproc/py-pdftotext
 textproc/py-sphinx
 www/apache24

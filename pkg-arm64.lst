@@ -1123,6 +1123,7 @@ textproc/fcitx-table-other
 textproc/hyphen
 textproc/intltool
 textproc/jade
+textproc/jq
 textproc/kdiff3
 textproc/kf6-kcodecs
 textproc/kf6-sonnet

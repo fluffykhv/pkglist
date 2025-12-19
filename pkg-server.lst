@@ -685,6 +685,7 @@ textproc/apache-solr
 textproc/bat
 textproc/en-aspell
 textproc/jade
+textproc/jq
 textproc/libxml2-python
 textproc/minixmlto
 textproc/openjade

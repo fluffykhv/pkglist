@@ -748,6 +748,7 @@ textproc/fcitx5-gtk
 textproc/fcitx5-lua
 textproc/fcitx5-qt
 textproc/fcitx5-qt@qt6
+textproc/jq
 textproc/kdiff3
 textproc/kf6-kcodecs
 textproc/kf6-sonnet
