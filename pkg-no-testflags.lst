@@ -15,6 +15,7 @@ net-p2p/transmission-remote-gui@all
 net/freebsd-uucp
 security/ca_root_nss
 sysutils/bareos-client
+sysutils/bareos-server
 sysutils/bacula13-client
 sysutils/bacula15-client
 www/mod_dnssd
