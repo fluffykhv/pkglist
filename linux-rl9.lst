@@ -1,7 +1,6 @@
 accessibility/linux-rl9-at-spi2-atk
 accessibility/linux-rl9-at-spi2-core
 accessibility/linux-rl9-atk
-archivers/linux-rl9-brotli
 archivers/linux-rl9-lz4
 astro/google-earth-pro
 audio/linux-rl9-alsa-lib
@@ -24,7 +23,6 @@ comms/linux-rl9-qt5-qtserialbus
 comms/linux-rl9-qt5-qtserialport
 converters/linux-rl9-fribidi
 databases/linux-rl9-libtracker-sparql
-databases/linux-rl9-sqlite3
 devel/linux_libusb@rl9
 devel/linux-pvs-studio
 devel/linux-rl9-dbus-libs
@@ -38,7 +36,6 @@ devel/linux-rl9-libpciaccess
 devel/linux-rl9-libsigc++20
 devel/linux-rl9-libthai
 devel/linux-rl9-libtool-ltdl
-devel/linux-rl9-libunistring
 devel/linux-rl9-lld
 devel/linux-rl9-lldb
 devel/linux-rl9-llvm

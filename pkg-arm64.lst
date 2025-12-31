@@ -626,7 +626,6 @@ lang/gawk
 lang/kturtle
 lang/lfortran
 lang/luajit
-lang/php81-extensions
 lang/php82-extensions
 lang/php83-extensions
 lang/php84-extensions
@@ -1185,10 +1184,10 @@ www/mod_memcache
 www/mod_mono
 www/mod_mpm_itk
 www/mod_perl2
-www/mod_php81
 www/mod_php82
 www/mod_php83
 www/mod_php84
+www/mod_php85
 www/mod_qos
 www/mod_security
 www/mod_setenvifplus
@@ -1275,13 +1274,13 @@ x11-fonts/freefont-ttf
 x11-fonts/gentium
 x11-fonts/gentium-book
 x11-fonts/gentium-plus-compact
+x11-fonts/google-fonts
 x11-fonts/hack-font
 x11-fonts/inconsolata-ttf
 x11-fonts/nerd-fonts
 x11-fonts/office-code-pro
 x11-fonts/open-sans
 x11-fonts/oxygen-fonts
-x11-fonts/powerline-fonts
 x11-fonts/source-code-pro-ttf
 x11-fonts/source-sans-ttf
 x11-fonts/source-serif-ttf

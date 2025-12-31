@@ -736,7 +736,6 @@ www/mod_memcache
 www/mod_mono
 www/mod_mpm_itk
 www/mod_perl2
-www/mod_php81
 www/mod_php82
 www/mod_php83
 www/mod_php84
