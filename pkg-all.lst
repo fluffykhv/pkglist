@@ -682,9 +682,9 @@ lang/kross-interpreters
 lang/kturtle
 lang/lfortran
 lang/luajit
-lang/perl5.32
-lang/perl5.34
+lang/perl5.38
 lang/perl5.40
+lang/perl5.42
 lang/php82-extensions
 lang/php83-extensions
 lang/php84-extensions
@@ -694,8 +694,8 @@ lang/python2
 lang/python3
 lang/python310
 lang/python311
-lang/python38
-lang/python39
+lang/python312
+lang/python314
 lang/ruby27
 lang/ruby30
 lang/ruby31

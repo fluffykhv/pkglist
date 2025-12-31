@@ -563,7 +563,6 @@ lang/kross-interpreters
 lang/kturtle
 lang/lfortran
 lang/luajit
-lang/perl5.40
 lang/php82-extensions
 lang/php83-extensions
 lang/php84-extensions
