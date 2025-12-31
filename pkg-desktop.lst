@@ -42,7 +42,6 @@ audio/libmysofa
 audio/musicpd
 audio/pavucontrol
 audio/pavucontrol-qt
-audio/pc-mixer
 audio/plasma6-plasma-pa
 audio/pt2-clone
 audio/pulseaudio-module-sndio

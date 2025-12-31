@@ -54,7 +54,6 @@ audio/oss
 audio/pamixer
 audio/pavucontrol
 audio/pavucontrol-qt
-audio/pc-mixer
 audio/plasma6-kpipewire
 audio/plasma6-ocean-sound-theme
 audio/plasma6-oxygen-sounds
@@ -921,7 +920,6 @@ security/libretls
 security/lxqt-openssh-askpass
 security/lxqt-sudo
 security/modsecurity3-nginx
-security/nextcloud-passman
 security/nextcloud-twofactor_webauthn
 security/nmap
 security/nss
@@ -1197,7 +1195,6 @@ www/mod_setenvifplus
 www/mod_webauth
 www/mod_wsgi@all
 www/mod_xsendfile
-www/moodle44
 www/moodle45
 www/moodle50
 www/nextcloud-calendar
@@ -1213,7 +1210,7 @@ www/phpvirtualbox
 www/piwigo
 www/plasma6-plasma-browser-integration
 www/py-django42
-www/py-django51
+www/py-django52
 www/py-django-cms
 www/py-flask-admin
 www/py-graphite-api
@@ -1242,12 +1239,6 @@ www/squid_radius_auth
 www/suphp@all
 www/tidy
 www/tidy-html5
-www/unit
-www/unit-java
-www/unit-perl
-www/unit-php
-www/unit-python
-www/unit-ruby
 www/webpy
 www/wordpress
 www/xoops

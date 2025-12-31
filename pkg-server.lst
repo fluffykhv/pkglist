@@ -523,7 +523,6 @@ security/keychain
 security/libressl
 security/libretls
 security/modsecurity3-nginx
-security/nextcloud-passman
 security/nextcloud-twofactor_webauthn
 security/nmap
 security/nss
@@ -748,7 +747,6 @@ www/mod_setenvifplus
 www/mod_webauth
 www/mod_wsgi
 www/mod_xsendfile
-www/moodle44
 www/moodle45
 www/moodle50
 www/moodle51
@@ -769,7 +767,6 @@ www/piwigo
 www/pound
 www/privoxy
 www/py-django42
-www/py-django51
 www/py-django52
 www/py-django-cms
 www/py-flask-admin
@@ -796,12 +793,6 @@ www/tomcat9
 www/tomcat101
 www/tomcat110
 www/tomcat-native
-www/unit
-www/unit-java
-www/unit-perl
-www/unit-php
-www/unit-python
-www/unit-ruby
 www/varnish7
 www/webpy
 www/wordpress

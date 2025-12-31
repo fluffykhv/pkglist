@@ -63,7 +63,6 @@ audio/oss
 audio/pamixer
 audio/pavucontrol
 audio/pavucontrol-qt
-audio/pc-mixer
 audio/plasma5-plasma-pa
 audio/pt2-clone
 audio/pulseaudio-module-sndio
@@ -1138,7 +1137,6 @@ security/libretls
 security/lxqt-openssh-askpass
 security/lxqt-sudo
 security/modsecurity3-nginx
-security/nextcloud-passman@all
 security/nextcloud-twofactor_webauthn@all
 security/nmap
 security/nss
@@ -1581,12 +1579,6 @@ www/tomcat10
 www/tomcat101
 www/tomcat85
 www/tomcat9
-www/unit
-www/unit-java
-www/unit-perl
-www/unit-php@all
-www/unit-python@all
-www/unit-ruby
 www/varnish6
 www/webpy@all
 www/wordpress@all

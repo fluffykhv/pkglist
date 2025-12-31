@@ -11,8 +11,16 @@ devel/jetbrains-goland
 devel/jetbrains-phpstorm
 devel/jetbrains-pty4j
 devel/jetbrains-webstorm
-devel/llvm11
 devel/llvm12
+devel/llvm13
+devel/llvm14
+devel/llvm15
+devel/llvm16
+devel/llvm17
+devel/llvm18
+devel/llvm19
+devel/llvm20
+devel/llvm21
 games/alienarena
 games/flightgear
 games/flightgear-aircraft
