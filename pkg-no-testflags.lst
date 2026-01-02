@@ -13,6 +13,7 @@ net-mgmt/networkmgr
 net-p2p/awgg@all
 net-p2p/transmission-remote-gui@all
 net/freebsd-uucp
+print/lilypond
 security/ca_root_nss
 sysutils/bareos-client
 sysutils/bareos-server
