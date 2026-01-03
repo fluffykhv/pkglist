@@ -278,7 +278,6 @@ lang/luajit
 lang/perl5.38
 lang/perl5.40
 lang/perl5.42
-lang/php81-extensions
 lang/php82-extensions
 lang/php83-extensions
 lang/php84-extensions
