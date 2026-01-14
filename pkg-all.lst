@@ -1066,7 +1066,6 @@ net/quagga
 net/rabbiteer
 net/rabbitmq
 net/radiusclient
-net/samba416
 net/smb4k
 net/sngrep
 net/trafshow

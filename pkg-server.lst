@@ -481,7 +481,6 @@ net/proftpd-mod_ldap
 net/quagga
 net/rabbitmq
 net/radiusclient
-net/samba416
 net/sngrep
 net/trafshow
 net/wifibox

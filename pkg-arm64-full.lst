@@ -787,7 +787,6 @@ net/qoauth-qt5
 net/qt5-network
 net/qt5-networkauth
 net/qt6-networkauth
-net/samba416
 net/smb4k
 net/trafshow
 net/wireguard-tools@all
