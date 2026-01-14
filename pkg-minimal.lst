@@ -126,8 +126,11 @@ www/lynx
 www/mod_php83
 www/mod_php84
 x11/gtk-app-menu
-x11/kdisplay
 x11/kde
+x11/kde-baseapps
 x11/kde-gear
+x11/kdisplay
+x11/plasma6-plasma
+x11/sddm
 x11/xlibre
 x11/xorg
