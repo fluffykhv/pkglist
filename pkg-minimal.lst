@@ -80,6 +80,8 @@ net-im/telegram-desktop@all
 net-p2p/ktorrent
 net/kget
 net/spoofdpi
+net/zapret
+net/zapret2
 ports-mgmt/pkg-appstream
 ports-mgmt/portconfig
 ports-mgmt/portgrep

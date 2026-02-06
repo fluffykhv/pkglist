@@ -493,6 +493,8 @@ net/wifibox
 net/wireguard-tools
 net/xrdp
 net/yggdrasil
+net/zapret
+net/zapret2
 news/inn
 news/leafnode
 ports-mgmt/appstream-generator
