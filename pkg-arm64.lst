@@ -861,6 +861,7 @@ net/xrdp
 net/yggdrasil
 net/zapret
 net/zapret2
+ports-mgmt/appstream-generator
 ports-mgmt/bsdadminscripts2
 ports-mgmt/distilator
 ports-mgmt/freebsd-bugzilla-cli
