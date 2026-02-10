@@ -1138,6 +1138,7 @@ textproc/openjade
 textproc/pecl-yaml
 textproc/py-chardet
 textproc/py-charset-normalizer
+textproc/py-docx2txt
 textproc/py-pdftotext
 textproc/py-rich
 textproc/py-sphinx

@@ -120,6 +120,7 @@ textproc/en-mythes
 textproc/hyphen
 textproc/jq
 textproc/odt2txt
+textproc/py-docx2txt
 textproc/py-pdftotext
 textproc/py-sphinx
 textproc/tnef2txt

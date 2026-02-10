@@ -1439,6 +1439,7 @@ textproc/p5-YAML-LibYAML
 textproc/pecl-yaml@all
 textproc/py-chardet@all
 textproc/py-charset-normalizer@all
+textproc/py-docx2txt@all
 textproc/py-furo@all
 textproc/py-libxml2@all
 textproc/py-rich@all
