@@ -1,3 +1,6 @@
+java/bootstrap-openjdk8
+java/bootstrap-openjdk11
+java/bootstrap-openjdk17
 java/openjdk8
 java/openjdk8-jre
 java/openjdk11
