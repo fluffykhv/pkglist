@@ -1133,7 +1133,7 @@ textproc/libkomparediff2
 textproc/libxml2-python
 textproc/markdownpart
 textproc/minixmlto
-textproc/odf2txt
+textproc/odt2txt
 textproc/openjade
 textproc/pecl-yaml
 textproc/py-chardet

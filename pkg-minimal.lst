@@ -119,7 +119,7 @@ textproc/en-hunspell
 textproc/en-mythes
 textproc/hyphen
 textproc/jq
-textproc/odf2txt
+textproc/odt2txt
 textproc/py-pdftotext
 textproc/py-sphinx
 textproc/tnef2txt
