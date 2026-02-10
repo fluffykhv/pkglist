@@ -778,6 +778,7 @@ www/phpvirtualbox
 www/piwigo
 www/pound
 www/privoxy
+www/py-calibreweb
 www/py-django42
 www/py-django52
 www/py-django-cms

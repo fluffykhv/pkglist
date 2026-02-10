@@ -1551,6 +1551,7 @@ www/plasma5-plasma-browser-integration
 www/polipo
 www/pound
 www/privoxy
+www/py-calibreweb@all
 www/py-django-cms@all
 www/py-django32@all
 www/py-django40@all

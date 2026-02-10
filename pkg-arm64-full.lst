@@ -1168,6 +1168,7 @@ www/phpvirtualbox
 www/phpvirtualbox@all
 www/piwigo@all
 www/plasma5-plasma-browser-integration
+www/py-calibreweb@all
 www/py-django-cms@all
 www/py-django32@all
 www/py-django42@all
