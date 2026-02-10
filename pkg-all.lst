@@ -1363,6 +1363,10 @@ sysutils/polkit-qt
 sysutils/powermon
 sysutils/pwd_unmkdb
 sysutils/pwgen
+sysutils/py-ansible-compat
+sysutils/py-ansible-core
+sysutils/py-ansible-lint
+sysutils/py-ansible-runner
 sysutils/py-azure-cli@all
 sysutils/py-execnet@all
 sysutils/py-filelock@all

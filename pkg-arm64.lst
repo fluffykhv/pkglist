@@ -1081,6 +1081,10 @@ sysutils/polkit-qt-1
 sysutils/pv
 sysutils/pwd_unmkdb
 sysutils/pwgen
+sysutils/py-ansible-compat
+sysutils/py-ansible-core
+sysutils/py-ansible-lint
+sysutils/py-ansible-runner
 sysutils/py-filelock
 sysutils/qt5-qtdiag
 sysutils/qt5-qtpaths

@@ -115,6 +115,10 @@ sysutils/ansible-sysrc
 sysutils/htop
 sysutils/pv
 sysutils/pwgen
+sysutils/py-ansible-compat
+sysutils/py-ansible-core
+sysutils/py-ansible-lint
+sysutils/py-ansible-runner
 sysutils/sanoid
 sysutils/tmux
 sysutils/tmux-mem-cpu-load

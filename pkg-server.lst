@@ -662,6 +662,10 @@ sysutils/podman-suite
 sysutils/powermon
 sysutils/pwd_unmkdb
 sysutils/pwgen
+sysutils/py-ansible-compat
+sysutils/py-ansible-core
+sysutils/py-ansible-lint
+sysutils/py-ansible-runner
 sysutils/py-azure-cli
 sysutils/py-execnet
 sysutils/py-filelock
