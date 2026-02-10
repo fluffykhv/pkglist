@@ -587,6 +587,7 @@ shells/zsh-navigation-tools
 shells/zsh-syntax-highlighting
 sysutils/acpica-tools
 sysutils/ansible
+sysutils/ansible-kld
 sysutils/ansible-sysrc
 sysutils/apachetop
 sysutils/atop
@@ -660,6 +661,7 @@ sysutils/pidof
 sysutils/podman-suite
 sysutils/powermon
 sysutils/pwd_unmkdb
+sysutils/pwgen
 sysutils/py-azure-cli
 sysutils/py-execnet
 sysutils/py-filelock

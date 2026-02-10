@@ -1238,8 +1238,9 @@ shells/zsh-syntax-highlighting
 sysutils/accounts-qml-module
 sysutils/android-file-transfer
 sysutils/android-file-transfer-qt5
-sysutils/ansible-sysrc@all
 sysutils/ansible@all
+sysutils/ansible-kld@all
+sysutils/ansible-sysrc@all
 sysutils/apachetop
 sysutils/atop
 sysutils/bacula11-client
@@ -1361,6 +1362,7 @@ sysutils/plasma5-systemsettings
 sysutils/polkit-qt
 sysutils/powermon
 sysutils/pwd_unmkdb
+sysutils/pwgen
 sysutils/py-azure-cli@all
 sysutils/py-execnet@all
 sysutils/py-filelock@all

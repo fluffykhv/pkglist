@@ -109,8 +109,12 @@ shells/zsh-autosuggestions
 shells/zsh-completions
 shells/zsh-navigation-tools
 shells/zsh-syntax-highlighting
+sysutils/ansible
+sysutils/ansible-kld
+sysutils/ansible-sysrc
 sysutils/htop
 sysutils/pv
+sysutils/pwgen
 sysutils/sanoid
 sysutils/tmux
 sysutils/tmux-mem-cpu-load

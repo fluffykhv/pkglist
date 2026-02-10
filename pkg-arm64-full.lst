@@ -920,6 +920,9 @@ shells/zsh-syntax-highlighting
 sysutils/accounts-qml-module
 sysutils/android-file-transfer
 sysutils/android-file-transfer-qt5
+sysutils/ansible
+sysutils/ansible-kld
+sysutils/ansible-sysrc
 sysutils/apachetop
 sysutils/atop
 sysutils/baloo-widgets
@@ -1012,6 +1015,7 @@ sysutils/plasma5-powerdevil
 sysutils/plasma5-systemsettings
 sysutils/polkit-qt-1
 sysutils/pwd_unmkdb
+sysutils/pwgen
 sysutils/py-filelock@all
 sysutils/qt5-qtdiag
 sysutils/qt5-qtpaths
