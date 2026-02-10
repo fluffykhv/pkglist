@@ -1133,6 +1133,7 @@ textproc/libkomparediff2
 textproc/libxml2-python
 textproc/markdownpart
 textproc/minixmlto
+textproc/odf2txt
 textproc/openjade
 textproc/pecl-yaml
 textproc/py-chardet
@@ -1148,6 +1149,7 @@ textproc/raptor2
 textproc/rasqal
 textproc/redland
 textproc/redland-bindings
+textproc/tnef2txt
 textproc/uim-qt5
 textproc/yelp-tools
 textproc/zxing-cpp

@@ -1433,6 +1433,7 @@ textproc/libkomparediff2
 textproc/markdownpart
 textproc/minixmlto
 textproc/obsidian
+textproc/odtf2txt
 textproc/openjade
 textproc/p5-YAML-LibYAML
 textproc/pecl-yaml@all
@@ -1448,6 +1449,7 @@ textproc/raptor2
 textproc/rasqal
 textproc/redland
 textproc/redland-bindings
+textproc/tnef2txt
 textproc/uim-qt5
 textproc/xerces-c3
 textproc/zxing-cpp

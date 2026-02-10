@@ -119,8 +119,10 @@ textproc/en-hunspell
 textproc/en-mythes
 textproc/hyphen
 textproc/jq
+textproc/odf2txt
 textproc/py-pdftotext
 textproc/py-sphinx
+textproc/tnef2txt
 www/apache24
 www/elinks
 www/links
