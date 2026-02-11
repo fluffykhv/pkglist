@@ -28,7 +28,6 @@ converters/osm2pgrouting
 converters/osm2pgsql
 databases/galera26
 databases/grass8
-databases/mongodb50
 databases/sfcgal
 databases/soci
 deskutils/easystroke
@@ -65,7 +64,7 @@ finance/ledger
 finance/quantlib
 games/alephone
 games/bastet
-games/burrtools
+games/burr-tools
 games/colobot
 games/domino-chain
 games/freeorion
