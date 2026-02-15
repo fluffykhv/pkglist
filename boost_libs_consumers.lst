@@ -169,6 +169,7 @@ textproc/luceneplusplus
 textproc/source-highlight
 textproc/xmlwrapp
 www/domoticz
+www/domoticz-devel
 www/osrm-backend
 www/proxygen
 www/wt

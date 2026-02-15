@@ -82,6 +82,7 @@ net/kget
 net/spoofdpi
 net/zapret
 net/zapret2
+ports-mgmt/appstream-generator
 ports-mgmt/pkg-appstream
 ports-mgmt/portconfig
 ports-mgmt/portgrep
