@@ -151,6 +151,7 @@ graphics/openimageio
 graphics/openmvs
 graphics/openshadinglanguage
 graphics/openvkl
+graphics/openusd
 graphics/osg
 graphics/pcl-pointclouds
 graphics/povray37
@@ -200,7 +201,6 @@ misc/ecflow
 misc/ompl
 misc/openvdb
 misc/py-openvdb
-misc/usd
 misc/visp
 multimedia/lms
 multimedia/mkvtoolnix

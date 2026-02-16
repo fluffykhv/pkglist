@@ -94,6 +94,7 @@ graphics/msl
 graphics/openimageio
 graphics/openmvs
 graphics/openshadinglanguage
+graphics/openusd
 graphics/osg
 graphics/pcl-pointclouds
 graphics/povray37
@@ -116,7 +117,6 @@ math/stp
 math/sympol
 math/vowpal_wabbit
 misc/openvdb
-misc/usd
 misc/visp
 multimedia/lms
 multimedia/mkvtoolnix
