@@ -213,6 +213,7 @@ devel/doxygen
 devel/efivar
 devel/elf-dissector
 devel/fnc
+devel/forgejo-runner
 devel/fossil
 devel/gammaray@all
 devel/gdb
@@ -230,6 +231,10 @@ devel/git-subrepo
 devel/git-tui
 devel/git-who
 devel/git-workspace
+devel/gitea-act_runner
+devel/github-backup-utils
+devel/gitlab-runner
+devel/gitlab-shell
 devel/glibmm
 devel/glibmm26
 devel/grantlee5

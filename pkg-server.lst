@@ -84,12 +84,17 @@ devel/ccache
 devel/cmake
 devel/efivar
 devel/fnc
+devel/forgejo-runner
 devel/fossil
 devel/gdb
 devel/git
 devel/git-extras
 devel/git-filter-repo
 devel/git-lfs
+devel/gitea-act_runner
+devel/github-backup-utils
+devel/gitlab-runner
+devel/gitlab-shell
 devel/glibmm
 devel/glibmm26
 devel/inih
