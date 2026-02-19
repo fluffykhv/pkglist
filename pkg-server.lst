@@ -95,6 +95,8 @@ devel/gitea-act_runner
 devel/github-backup-utils
 devel/gitlab-runner
 devel/gitlab-shell
+devel/gitui
+devel/glab
 devel/glibmm
 devel/glibmm26
 devel/inih

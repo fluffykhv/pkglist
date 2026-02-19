@@ -34,6 +34,7 @@ devel/git-subrepo
 devel/git-tui
 devel/git-who
 devel/git-workspace
+devel/glab
 devel/py-pip
 devel/libuv
 devel/py-wheel
