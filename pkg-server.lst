@@ -205,6 +205,7 @@ dns/powerdns
 dns/powerdns-recursor
 dns/unbound
 dns/vizone
+editors/fresh
 editors/hexedit
 editors/le
 editors/libreoffice

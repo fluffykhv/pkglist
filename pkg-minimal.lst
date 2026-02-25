@@ -44,6 +44,7 @@ devel/ruby-gems
 dns/bind-tools
 dns/nss_mdns
 dns/nss_resinit
+editors/fresh
 editors/le
 editors/libreoffice
 editors/lite
