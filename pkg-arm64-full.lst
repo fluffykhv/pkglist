@@ -100,11 +100,11 @@ databases/phpminiadmin@all
 databases/phpmyadmin@all
 databases/phpmyadmin5@all
 databases/phppgadmin@all
-databases/postgresql17-contrib
-databases/postgresql17-plperl
-databases/postgresql17-plpython
-databases/postgresql17-pltcl
-databases/postgresql17-server
+databases/postgresql18-contrib
+databases/postgresql18-plperl
+databases/postgresql18-plpython
+databases/postgresql18-pltcl
+databases/postgresql18-server
 databases/proftpd-mod_sql_mysql
 databases/proftpd-mod_sql_odbc
 databases/proftpd-mod_sql_postgres
