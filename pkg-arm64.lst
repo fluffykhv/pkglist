@@ -1181,7 +1181,8 @@ www/drupal7-wysiwyg@all
 www/drupal7@all
 www/drupal10@all
 www/elinks
-www/forgeio
+www/forgejo
+www/forgejo-lts
 www/free-sa-devel
 www/gitea
 www/gallery2
