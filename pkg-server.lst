@@ -497,6 +497,7 @@ net/rabbitmq
 net/radiusclient
 net/sngrep
 net/trafshow
+net/v2ray
 net/wifibox
 net/wireguard-tools
 net/xrdp
