@@ -168,12 +168,12 @@ devel/py-pytest-mock
 devel/py-pytest-rerunfailures
 devel/py-pytest-timeout
 devel/py-pytest-xdist
+devel/py-pyxdg
 devel/py-scripttest
 devel/py-subversion
 devel/py-tox
 devel/py-traceback2
 devel/py-unittest2
-devel/py-xdg
 devel/rubygem-azure_sdk
 devel/rubygem-irb
 devel/rubygem-rake

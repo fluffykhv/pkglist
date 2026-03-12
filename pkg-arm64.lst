@@ -332,6 +332,7 @@ devel/py-grpcio
 devel/py-lief
 devel/py-pip-api
 devel/py-pygobject
+devel/py-pyxdg
 devel/py-qt5
 devel/py-qt5-pyqt
 devel/py-qt5-qscintilla2
@@ -344,7 +345,6 @@ devel/py-qtbuilder
 devel/py-sip
 devel/py-subversion
 devel/py-tox
-devel/py-xdg
 devel/qca@all
 devel/qcoro
 devel/qjson

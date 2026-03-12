@@ -372,6 +372,7 @@ devel/py-pytest-rerunfailures@all
 devel/py-pytest-timeout@all
 devel/py-pytest-xdist@all
 devel/py-pytest@all
+devel/py-pyxdg@all
 devel/py-qt5-pyqt@all
 devel/py-qt5-qscintilla2@all
 devel/py-qt5-sip@all
@@ -386,7 +387,6 @@ devel/py-tox@all
 devel/py-traceback2@all
 devel/py-typed-ast@all
 devel/py-unittest2@all
-devel/py-xdg@all
 devel/pyside2-tools
 devel/pyside2@all
 devel/qca

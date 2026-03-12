@@ -294,6 +294,7 @@ devel/py-buildbot@all
 devel/py-clang@all
 devel/py-gobject3@all
 devel/py-grpcio@all
+devel/py-pyxdg@all
 devel/py-qt5-pyqt@all
 devel/py-qt5-qscintilla2@all
 devel/py-qt5-sip@all
@@ -304,7 +305,6 @@ devel/py-sip@all
 devel/py-sip4@all
 devel/py-subversion@all
 devel/py-tox@all
-devel/py-xdg@all
 devel/pyside2-tools
 devel/pyside2@all
 devel/qca
