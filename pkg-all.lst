@@ -306,8 +306,6 @@ devel/libphonenumber
 devel/libsigrokdecode
 devel/llvm
 devel/llvm13
-devel/llvm14
-devel/llvm15
 devel/lmdbg
 devel/lokalize
 devel/maven
