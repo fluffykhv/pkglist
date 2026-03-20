@@ -673,8 +673,7 @@ shells/zsh-completions
 shells/zsh-navigation-tools
 shells/zsh-syntax-highlighting
 sysutils/accounts-qml-module
-sysutils/android-file-transfer
-sysutils/android-file-transfer-qt5
+sysutils/android-file-transfer@all
 sysutils/baloo-widgets
 sysutils/bareos-traymonitor
 sysutils/bareos20-traymonitor

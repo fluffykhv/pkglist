@@ -916,8 +916,7 @@ shells/zsh-completions
 shells/zsh-navigation-tools
 shells/zsh-syntax-highlighting
 sysutils/accounts-qml-module
-sysutils/android-file-transfer
-sysutils/android-file-transfer-qt5
+sysutils/android-file-transfer@all
 sysutils/ansible@ll
 sysutils/ansible-kld@ll
 sysutils/ansible-sysrc@ll
@@ -1111,7 +1110,7 @@ www/falkon
 www/firefox
 www/foreign-cdm
 www/free-sa-devel
-www/gallery-dl@all
+www/gallery-dl
 www/gallery2@all
 www/hiawatha
 www/joomla4@all
