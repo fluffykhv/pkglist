@@ -468,6 +468,8 @@ net/ipxe
 net/isc-dhcp44-client
 net/isc-dhcp44-server
 net/kea
+net/kea-devel
+net/keama
 net/mpd5
 net/ntp
 net/openbgpd7

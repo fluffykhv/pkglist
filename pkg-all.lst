@@ -1009,6 +1009,8 @@ net/kcalutils
 net/kdenetwork
 net/kdenetwork-filesharing
 net/kea
+net/kea-devel
+net/keama
 net/kf5-kcalendarcore
 net/kf5-kcontacts
 net/kf5-kdav

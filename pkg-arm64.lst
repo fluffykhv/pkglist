@@ -816,6 +816,8 @@ net/kcalutils
 net/kdenetwork
 net/kdenetwork-filesharing
 net/kea
+net/kea-devel
+net/keama
 net/kf6-kcalendarcore
 net/kf6-kcontacts
 net/kf6-kdav
