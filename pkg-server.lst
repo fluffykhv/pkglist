@@ -679,7 +679,6 @@ sysutils/terraform-docs
 sysutils/terraform-provider-gridscale
 sysutils/terraform-provider-vultr
 sysutils/terraform-switcher
-sysutils/tmate
 sysutils/tmux
 sysutils/tmux-mem-cpu-load
 sysutils/ttyload

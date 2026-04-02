@@ -310,7 +310,6 @@ devel/pyside2@all
 devel/qca
 devel/qca@all
 devel/qcoro
-devel/qjson
 devel/qscintilla2-designerplugin-qt5
 devel/qscintilla2-qt5
 devel/qt-maybe
@@ -1032,7 +1031,6 @@ sysutils/signond
 sysutils/sweeper
 sysutils/symon
 sysutils/terraform
-sysutils/tmate
 sysutils/tmux
 sysutils/tmux-mem-cpu-load
 sysutils/ttyload

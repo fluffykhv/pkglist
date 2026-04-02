@@ -227,7 +227,6 @@ devel/pyside2-tools
 devel/pyside2@all
 devel/qca@all
 devel/qcoro
-devel/qjson
 devel/qscintilla2-designerplugin@all
 devel/qscintilla2@all
 devel/qt-maybe

@@ -347,7 +347,6 @@ devel/py-subversion
 devel/py-tox
 devel/qca@all
 devel/qcoro
-devel/qjson
 devel/qscintilla2-designerplugin@all
 devel/qscintilla2@all
 devel/qt5
@@ -1111,7 +1110,6 @@ sysutils/signon-ui
 sysutils/sweeper
 sysutils/sysctltui
 sysutils/terraform
-sysutils/tmate
 sysutils/tmux
 sysutils/tmux-mem-cpu-load
 sysutils/tmux-xpanes
