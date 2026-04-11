@@ -443,6 +443,8 @@ games/picmi
 games/simsu
 games/tanglet
 games/tetzle
+graphics/ImageMagick6@all
+graphics/ImageMagick7@all
 graphics/blender
 graphics/darktable
 graphics/digikam

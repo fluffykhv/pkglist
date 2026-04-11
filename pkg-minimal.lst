@@ -55,6 +55,8 @@ editors/turbo
 editors/vim
 ftp/curl
 ftp/wget
+graphics/ImageMagick6@all
+graphics/ImageMagick7@all
 graphics/blender
 graphics/digikam
 irc/quassel
