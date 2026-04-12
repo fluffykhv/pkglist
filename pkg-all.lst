@@ -925,6 +925,7 @@ net-mgmt/icingaweb2-module-reactbundle@all
 net-mgmt/icingaweb2-module-vsphere@all
 net-mgmt/icingaweb2@all
 net-mgmt/iftop
+net-mgmt/iprange
 net-mgmt/mac-telnet
 net-mgmt/monitoring-plugins
 net-mgmt/mrtg

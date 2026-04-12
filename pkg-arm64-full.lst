@@ -722,6 +722,7 @@ net-im/toot
 net-im/toxic
 net-mgmt/hastmon
 net-mgmt/iftop
+net-mgmt/iprange
 net-mgmt/mac-telnet
 net-mgmt/networkmgr
 net-p2p/ktorrent

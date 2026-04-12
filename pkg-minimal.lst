@@ -83,6 +83,7 @@ misc/freebsd-doc-all
 misc/mc
 multimedia/gstreamer1-plugins-all
 net-im/telegram-desktop@all
+net-mgmt/iprange
 net-p2p/ktorrent
 net/kget
 net/spoofdpi
