@@ -141,6 +141,7 @@ textproc/py-docx2txt
 textproc/py-pdftotext
 textproc/py-sphinx
 textproc/tnef2txt
+textproc/yq
 www/apache24
 www/elinks
 www/links

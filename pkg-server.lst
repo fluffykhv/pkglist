@@ -265,7 +265,6 @@ java/openjdk17
 java/openjdk17-jre
 java/openjdk21
 java/openjdk21-jre
-java/openjdk22
 java/openjdk23
 java/openjdk24
 java/openjdk25
@@ -371,8 +370,8 @@ misc/pastebinit
 misc/py-powerline-status
 misc/sfm
 net-im/finch
-net-mgmt/argus3
-net-mgmt/argus3-clients
+net-mgmt/argus
+net-mgmt/argus-clients
 net-mgmt/arpwatch
 net-mgmt/dhcdrop
 net-mgmt/icinga2
