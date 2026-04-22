@@ -56,6 +56,9 @@ games/wesnoth
 graphics/ephoto
 graphics/lazpaint@all
 graphics/py-svgwrite@all
+lang/gcc12
+lang/gcc13
+lang/gcc14
 net-mgmt/icingaweb2-module-idoreports@all
 net-mgmt/icingaweb2-module-pdfexport@all
 net-mgmt/icingaweb2-module-reporting@all

@@ -271,9 +271,6 @@ java/openjdk25
 lang/duktape
 lang/fpc
 lang/gcc6-aux
-lang/gcc12
-lang/gcc13
-lang/gcc14
 lang/lfortran
 lang/luajit
 lang/perl5.38
