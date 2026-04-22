@@ -41,7 +41,7 @@ databases/firebird30-client
 databases/firebird30-server
 databases/libzdb
 databases/memcached
-databases/mysql80-server
+databases/mysql84-server
 databases/mysqlbackup
 databases/mysqlreport
 databases/mysqlsla
