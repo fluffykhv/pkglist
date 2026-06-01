@@ -7,9 +7,9 @@ emulators/virtualbox-ose-kmod-72
 emulators/virtualbox-ose-kmod-legacy
 filesystems/nbd-client-kmod
 filesystems/openzfs-kmod
-graphics/drm-510-kmod
 graphics/drm-515-kmod
 graphics/drm-61-kmod
+graphics/drm-612-kmod
 graphics/drm-66-kmod
 graphics/drm-kmod
 graphics/drm-latest-kmod
@@ -17,12 +17,12 @@ graphics/gpu-firmware-amd-kmod
 graphics/gpu-firmware-intel-kmod
 graphics/gpu-firmware-kmod
 graphics/gpu-firmware-radeon-kmod
-graphics/nvidia-drm-510-kmod
-graphics/nvidia-drm-510-kmod-devel
 graphics/nvidia-drm-515-kmod
 graphics/nvidia-drm-515-kmod-devel
 graphics/nvidia-drm-61-kmod
 graphics/nvidia-drm-61-kmod-devel
+graphics/nvidia-drm-612-kmod
+graphics/nvidia-drm-612-kmod-devel
 graphics/nvidia-drm-66-kmod
 graphics/nvidia-drm-66-kmod-devel
 graphics/nvidia-drm-kmod
@@ -62,7 +62,6 @@ net/wifi-firmware-mt7601u-kmod
 net/wifi-firmware-rtw88-kmod
 net/wifi-firmware-rtw89-kmod
 security/isal-kmod
-security/ktls_isa-l_crypto-kmod
 security/quantis-kmod
 sysutils/acerhdf-kmod
 sysutils/devctl-jail-kmod
