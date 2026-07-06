@@ -639,6 +639,7 @@ lang/php82-extensions
 lang/php83-extensions
 lang/php84-extensions
 lang/php85-extensions
+lang/php86-extensions
 lang/python
 lang/python2
 lang/python3
@@ -1215,6 +1216,7 @@ www/mod_php82
 www/mod_php83
 www/mod_php84
 www/mod_php85
+www/mod_php86
 www/mod_qos
 www/mod_security
 www/mod_setenvifplus
