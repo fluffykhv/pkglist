@@ -52,8 +52,6 @@ devel/linux-rl9-sdl20
 devel/linux-rl9-strace
 devel/linux-rl9-systemd-libs
 dns/linux-rl9-libasyncns
-dns/linux-rl9-libidn2
-dns/linux-rl9-libpsl
 editors/linux-r7-office
 emulators/linux-rl9
 finance/linux-tradingview
