@@ -59,6 +59,7 @@ graphics/ImageMagick6@all
 graphics/ImageMagick7@all
 graphics/blender
 graphics/digikam
+graphics/inkscape
 irc/quassel
 lang/gawk
 lang/php83-extensions
@@ -157,5 +158,4 @@ x11/kde-gear
 x11/kdisplay
 x11/plasma6-plasma
 x11/sddm
-x11/xlibre
 x11/xorg
