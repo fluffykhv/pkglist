@@ -1095,8 +1095,10 @@ ports-mgmt/portupgrade-devel
 ports-mgmt/poudriere
 ports-mgmt/poudriere-devel
 ports-mgmt/synth
+print/cups-bjnp
 print/cups-filters
 print/cups-pdf
+print/cups-pk-helper
 print/epson-inkjet-printer-escpr2
 print/hplip-plugin
 print/kde_poster

@@ -2,7 +2,13 @@ converters/iconv-extra
 deskutils/calibre
 devel/plasma6-plasma5support
 dns/py-cloudflare@all
-games/quake-data
+editors/lazarus
+editors/lazarus-devel
+editors/lazarus-gtk3-devel
+editors/lazarus-qt5
+editors/lazarus-qt5-devel
+editors/lazarus-qt6
+editors/lazarus-qt6-devel
 games/quake2-data
 games/quake3-data
 graphics/lazpaint@all
