@@ -1191,6 +1191,7 @@ www/sarg
 www/smarty@all
 www/smarty3@all
 www/squid
+www/squid-langpack
 www/squid_radius_auth
 www/squidclamav
 www/squidguard
