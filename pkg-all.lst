@@ -1409,6 +1409,7 @@ textproc/aha
 textproc/apache-solr
 textproc/bat
 textproc/colordiff
+textproc/diff-so-fancy
 textproc/diffsplit
 textproc/difftastic
 textproc/diffutils

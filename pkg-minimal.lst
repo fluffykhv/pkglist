@@ -136,6 +136,7 @@ sysutils/py-ansible-runner
 sysutils/sanoid
 sysutils/tmux
 sysutils/tmux-mem-cpu-load
+textproc/diff-so-fancy
 textproc/en-aspell
 textproc/en-hunspell
 textproc/en-mythes

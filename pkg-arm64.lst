@@ -1128,6 +1128,7 @@ sysutils/znapzend
 sysutils/zogftw
 sysutils/zrep
 textproc/bat
+textproc/diff-so-fancy
 textproc/dikt
 textproc/ebook-tools
 textproc/en-aspell
