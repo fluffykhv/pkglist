@@ -589,6 +589,8 @@ sysutils/bastille
 sysutils/beadm
 sysutils/bhyve-firmware
 sysutils/bhyve-rc
+sysutils/bhyvemgr@all
+sysutils/bhyvemgrd
 sysutils/bpytop
 sysutils/btop
 sysutils/busybox
@@ -619,6 +621,8 @@ sysutils/intel-epct
 sysutils/intel-nvmupdate-10g
 sysutils/intel-nvmupdate-40g
 sysutils/intel-nvmupdate-100g
+sysutils/intel-nvmupdate-e610
+sysutils/intel-nvmupdate-e830
 sysutils/intel-pcm
 sysutils/intel-undervolt
 sysutils/inxi

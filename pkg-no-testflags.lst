@@ -15,6 +15,7 @@ graphics/lazpaint@all
 java/apache-commons-logging
 lang/fpc-devel-source
 lang/fpc-source
+multimedia/totem
 net-mgmt/nagios-check_bacula13
 net-mgmt/nagios-check_bacula15
 net-mgmt/networkmgr
