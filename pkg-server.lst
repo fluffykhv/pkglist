@@ -340,6 +340,8 @@ mail/spamassassin
 mail/spamass-ixhash
 mail/spamass-rules
 mail/spamd
+mail/stalwart
+mail/stalwart-cli
 mail/sympa
 mail/vexim
 math/z3
