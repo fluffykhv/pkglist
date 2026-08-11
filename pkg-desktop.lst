@@ -990,7 +990,7 @@ x11-themes/qt5-style-plugins
 x11-themes/qt6gtk2
 x11-themes/qtcurve
 x11-themes/qtcurve-gtk2
-x11-themes/qtcurve-kf6
+x11-themes/qtcurve-kf5
 x11-themes/qtcurve-qt5
 x11-themes/qtcurve-utils
 x11-themes/sddm-freebsd-black-theme
