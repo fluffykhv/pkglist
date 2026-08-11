@@ -44,7 +44,6 @@ audio/libcanberra-gtk2
 audio/libcanberra-gtk3
 audio/libcanberra-pulse
 audio/libkcddb
-audio/libkcompactdisc
 audio/libmysofa
 audio/musicpd
 audio/ncmpc
@@ -98,6 +97,7 @@ databases/dbf
 databases/kbibtex
 databases/kdb
 databases/kexi
+databases/letos
 databases/libiodbc
 databases/memcached
 databases/mysql84-client
@@ -138,7 +138,6 @@ databases/redis
 databases/sqlite3@all
 databases/sqlitebrowser
 databases/sqlitemanager
-databases/sqlitestudio
 deskutils/akonadiconsole
 deskutils/akonadi-calendar-tools
 deskutils/akonadi-import-wizard
@@ -153,7 +152,6 @@ deskutils/crqt-ng
 deskutils/fbreader
 deskutils/grantleetheme
 deskutils/grantlee-editor
-deskutils/growl-for-linux
 deskutils/itinerary
 deskutils/kaddressbook
 deskutils/kalarm
@@ -290,7 +288,6 @@ devel/kirigami-gallery
 devel/kommit
 devel/kpublictransport
 devel/ktextaddons
-devel/kyua
 devel/lazygit
 devel/libayatana-appindicator
 devel/libclc
@@ -529,7 +526,6 @@ graphics/frei0r-plugins
 graphics/gimp
 graphics/gimp-beautify-plugin
 graphics/gimp-data-extras
-graphics/gimp-jxl-plugin
 graphics/gimp-lensfun-plugin
 graphics/gimp-lqr-plugin
 graphics/gimp-refocus-plugin
@@ -551,7 +547,6 @@ graphics/kdegraphics
 graphics/kdegraphics-mobipocket
 graphics/kdegraphics-svgpart
 graphics/kdegraphics-thumbnailers
-graphics/kdiagram
 graphics/kf6-kimageformats
 graphics/kf6-kplotting
 graphics/kf6-kquickcharts
@@ -576,9 +571,7 @@ graphics/kxstitch
 graphics/libkdcraw
 graphics/libkexiv2
 graphics/libksane
-graphics/mesa-gallium-va
-graphics/mesa-gallium-vdpau
-graphics/mesa-gallium-xa
+graphics/mesa-dri
 graphics/okular
 graphics/ospray-studio
 graphics/p5-Image-Imlib2
@@ -836,7 +829,6 @@ net/kmailtransport
 net/kmbox
 net/kmime
 net/kontactinterface
-net/kpeoplevcard
 net/kpimtextedit
 net/krdc
 net/krfb
@@ -1020,7 +1012,6 @@ sysutils/beadm
 sysutils/bhyve-firmware
 sysutils/bhyve-rc
 sysutils/bpytop
-sysutils/bsdstats
 sysutils/btop
 sysutils/busybox
 sysutils/calamares
@@ -1235,8 +1226,8 @@ www/nextcloud-tasks
 www/nginx
 www/npm
 www/owncloud@all
-www/pecl-http
 www/phalcon@all
+www/php-http
 www/phpvirtualbox
 www/piwigo
 www/plasma6-plasma-browser-integration
