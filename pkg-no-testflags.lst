@@ -1,5 +1,6 @@
 converters/iconv-extra
 deskutils/calibre
+deskutils/nextcloudclient
 devel/plasma6-plasma5support
 dns/py-cloudflare@all
 editors/lazarus
