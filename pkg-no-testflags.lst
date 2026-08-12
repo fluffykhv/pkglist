@@ -28,6 +28,7 @@ sysutils/bareos-client
 sysutils/bareos-server
 sysutils/bacula13-client
 sysutils/bacula15-client
+sysutils/bhyvemgr@all
 www/mod_dnssd
 x11-fm/doublecmd@all
 x11/gdm
