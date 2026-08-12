@@ -543,8 +543,6 @@ lang/runawk
 mail/astroid
 mail/evolution-ews
 mail/lookout
-mail/thunderbird
-mail/thunderbird-dictionaries
 math/analitza
 math/cantor
 math/eigen3
