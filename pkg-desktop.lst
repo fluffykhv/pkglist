@@ -173,6 +173,7 @@ deskutils/qownnotes
 deskutils/qtfeedback
 deskutils/semantik
 deskutils/syncthingtray
+deskutils/uchmviewer
 deskutils/virt-manager
 deskutils/zanshin
 devel/clazy
@@ -541,7 +542,6 @@ japanese/kiten
 lang/kturtle
 lang/runawk
 mail/astroid
-mail/evolution-ews
 mail/lookout
 math/analitza
 math/cantor
