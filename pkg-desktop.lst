@@ -755,7 +755,7 @@ russian/mythes
 science/kalzium
 science/kst
 science/pulseview
-science/py-dlib@all
+science/py-dlib
 science/qt6-quick3dphysics
 science/sigrok-cli
 science/step

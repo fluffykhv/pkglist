@@ -1447,7 +1447,6 @@ science/kalzium
 science/kst
 science/pulseview
 science/py-dlib
-science/py-dlib@all
 science/qt6-quick3dphysics
 science/sigrok-cli
 science/step
