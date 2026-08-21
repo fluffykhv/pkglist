@@ -104,6 +104,7 @@ graphics/povray38
 irc/ezbounce
 irc/znc
 mail/astroid
+math/Imath
 math/adol-c
 math/cadabra2
 math/cryptominisat

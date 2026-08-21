@@ -333,11 +333,6 @@ devel/inih
 devel/injeqt
 devel/ipython
 devel/jenkins
-devel/jetbrains-clion
-devel/jetbrains-goland
-devel/jetbrains-phpstorm
-devel/jetbrains-pty4j
-devel/jetbrains-webstorm
 devel/kapptemplate
 devel/kcachegrind
 devel/kdbg

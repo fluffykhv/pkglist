@@ -100,6 +100,7 @@ graphics/povray37
 graphics/povray38
 irc/znc
 mail/astroid
+math/Imath
 math/adol-c
 math/cadabra2
 math/cryptominisat

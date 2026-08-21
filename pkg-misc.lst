@@ -6,11 +6,6 @@ deskutils/dmenu-wayland
 deskutils/i3status
 deskutils/lumina-photo
 deskutils/lxqt-notificationd
-devel/jetbrains-clion
-devel/jetbrains-goland
-devel/jetbrains-phpstorm
-devel/jetbrains-pty4j
-devel/jetbrains-webstorm
 games/alienarena
 games/flightgear
 games/flightgear-aircraft
