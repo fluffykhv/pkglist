@@ -677,8 +677,11 @@ sysutils/webmin
 sysutils/xen-tools
 sysutils/xen-tools
 sysutils/zetaback
+sysutils/zfs-allow
+sysutils/zfs-set
 sysutils/znapzend
 sysutils/zogftw
+sysutils/zpool-set
 sysutils/zrep
 textproc/apache-solr
 textproc/bat

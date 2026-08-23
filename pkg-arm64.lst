@@ -1116,8 +1116,11 @@ sysutils/usermin
 sysutils/virtualmin
 sysutils/vm-bhyve
 sysutils/webmin
+sysutils/zfs-allow
+sysutils/zfs-set
 sysutils/znapzend
 sysutils/zogftw
+sysutils/zpool-set
 sysutils/zrep
 textproc/bat
 textproc/diff-so-fancy
