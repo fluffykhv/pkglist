@@ -1458,6 +1458,7 @@ security/gpgme
 security/gstreamer1-plugins-dtls
 security/isal-kmod
 security/keepassxc
+security/keepsecret
 security/keychain
 security/keysmith
 security/kf6-kdesu

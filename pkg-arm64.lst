@@ -917,6 +917,7 @@ security/gost-engine
 security/gpgme
 security/gpg-gui
 security/keepassxc
+security/keepsecret
 security/keychain
 security/keysmith
 security/kf6-kdesu

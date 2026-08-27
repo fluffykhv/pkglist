@@ -110,6 +110,7 @@ russian/mythes
 security/doas
 security/gnupg
 security/gnutls
+security/keepsecret
 security/keychain
 security/nss
 security/pinentry

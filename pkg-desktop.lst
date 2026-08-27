@@ -762,6 +762,7 @@ security/doas
 security/duo_openvpn
 security/gpg-gui
 security/gstreamer1-plugins-dtls
+security/keepsecret
 security/keychain
 security/kf6-kdesu
 security/kgpg
