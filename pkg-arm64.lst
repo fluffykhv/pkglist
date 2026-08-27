@@ -818,6 +818,7 @@ net/kf6-kcalendarcore
 net/kf6-kcontacts
 net/kf6-kdav
 net/kf6-kholidays
+net/kf6-kmime
 net/kf6-syndication
 net/kget
 net/kidentitymanagement
@@ -828,7 +829,6 @@ net/kitinerary
 net/kldap
 net/kmailtransport
 net/kmbox
-net/kmime
 net/kontactinterface
 net/kpimtextedit
 net/krdc
