@@ -808,7 +808,6 @@ sysutils/edid-decode
 sysutils/filelight
 sysutils/gstreamer1-plugins-cdio
 sysutils/k3b
-sysutils/k4dirstat
 sysutils/kbackup
 sysutils/kcron
 sysutils/kdeadmin
@@ -846,6 +845,7 @@ sysutils/plasma6-polkit-kde-agent-1
 sysutils/plasma6-powerdevil
 sysutils/plasma6-systemsettings
 sysutils/polkit-qt-1
+sysutils/qdirstat
 sysutils/qt5-qtdiag
 sysutils/qt5-qtpaths
 sysutils/qt5-qtplugininfo

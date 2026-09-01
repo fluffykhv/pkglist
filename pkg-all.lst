@@ -1622,7 +1622,6 @@ sysutils/inxi
 sysutils/iocage
 sysutils/ipmitool
 sysutils/k3b
-sysutils/k4dirstat
 sysutils/kbackup
 sysutils/kcron
 sysutils/kdeadmin
@@ -1695,6 +1694,7 @@ sysutils/py-azure-cli
 sysutils/py-execnet
 sysutils/py-filelock
 sysutils/py-glances
+sysutils/qdirstat
 sysutils/qt5-qtdiag
 sysutils/qt5-qtpaths
 sysutils/qt5-qtplugininfo

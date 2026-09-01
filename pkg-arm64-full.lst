@@ -965,7 +965,6 @@ sysutils/inxi
 sysutils/iocage
 sysutils/ipmitool
 sysutils/k3b
-sysutils/k4dirstat
 sysutils/kbackup
 sysutils/kcron
 sysutils/kdeadmin
@@ -1024,6 +1023,7 @@ sysutils/py-ansible-core@all
 sysutils/py-ansible-lint@all
 sysutils/py-ansible-runner@all
 sysutils/py-filelock@all
+sysutils/qdirstat
 sysutils/qt5-qtdiag
 sysutils/qt5-qtpaths
 sysutils/qt5-qtplugininfo
