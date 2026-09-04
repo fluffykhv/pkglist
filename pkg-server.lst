@@ -620,7 +620,7 @@ sysutils/hatop
 sysutils/htop
 sysutils/hw-probe
 sysutils/intel-epct
-sysutils/intel-nvmupdate-700-series
+sysutils/intel-nvmupdate-700series
 sysutils/intel-nvmupdate-e610
 sysutils/intel-nvmupdate-e810
 sysutils/intel-nvmupdate-e830-e835
