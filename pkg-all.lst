@@ -1008,8 +1008,6 @@ mail/spamd
 mail/stalwart
 mail/stalwart-cli
 mail/sympa
-mail/thunderbird
-mail/thunderbird-dictionaries
 mail/vexim
 math/analitza
 math/cantor
@@ -1808,7 +1806,6 @@ www/baculum-web
 www/bareos-webui
 www/bozohttpd
 www/c-icap-modules
-www/chromium
 www/cutelyst
 www/darkhttpd
 www/davical
@@ -1821,7 +1818,6 @@ www/drupal7@all
 www/elinks
 www/epiphany
 www/falkon
-www/firefox
 www/foreign-cdm
 www/forgejo
 www/forgejo-lts
@@ -1836,7 +1832,6 @@ www/hiawatha
 www/http-parser
 www/joomla5
 www/joomla6
-www/librewolf
 www/lightsquid
 www/lighttpd
 www/links
