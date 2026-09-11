@@ -216,11 +216,6 @@ emulators/virtualbox-ose-71
 emulators/virtualbox-ose-72
 emulators/virtualbox-ose-additions@all
 emulators/virtualbox-ose-additions-legacy@all
-emulators/virtualbox-ose-kmod@all
-emulators/virtualbox-ose-kmod-70@all
-emulators/virtualbox-ose-kmod-71@all
-emulators/virtualbox-ose-kmod-72@all
-emulators/virtualbox-ose-kmod-legacy
 emulators/virtualbox-ose-legacy@all
 filesystems/dsbmc
 filesystems/dsbmc-cli
@@ -238,11 +233,6 @@ filesystems/zrepl
 ftp/curl
 ftp/proftpd-mod_vroot
 ftp/wget
-graphics/drm-kmod
-graphics/gpu-firmware-amd-kmod
-graphics/gpu-firmware-intel-kmod
-graphics/gpu-firmware-kmod
-graphics/gpu-firmware-radeon-kmod
 graphics/pecl-imagick
 irc/irssi-fish
 irc/irssi-scripts

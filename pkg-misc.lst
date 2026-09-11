@@ -38,6 +38,8 @@ games/simutrans
 games/ufoai
 games/warzone2100
 games/wesnoth
+games/xray-16
+games/xray_re-tools
 graphics/ephoto
 graphics/lazpaint@all
 graphics/py-svgwrite@all
