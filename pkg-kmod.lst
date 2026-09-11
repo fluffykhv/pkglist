@@ -13,10 +13,10 @@ graphics/drm-612-kmod
 graphics/drm-66-kmod
 graphics/drm-kmod
 graphics/drm-latest-kmod
-graphics/gpu-firmware-amd-kmod
-graphics/gpu-firmware-intel-kmod
+graphics/gpu-firmware-amd-kmod@all
+graphics/gpu-firmware-intel-kmod@all
 graphics/gpu-firmware-kmod
-graphics/gpu-firmware-radeon-kmod
+graphics/gpu-firmware-radeon-kmod@all
 graphics/nvidia-drm-515-kmod
 graphics/nvidia-drm-515-kmod-devel
 graphics/nvidia-drm-61-kmod
