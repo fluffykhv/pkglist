@@ -665,6 +665,8 @@ sysutils/ttyload
 sysutils/usermin
 sysutils/virtualmin
 sysutils/vm-bhyve
+sysutils/vm-bhyve-zcomp
+sysutils/vm-tui
 sysutils/webmin
 sysutils/xen-tools
 sysutils/xen-tools
