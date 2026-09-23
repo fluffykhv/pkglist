@@ -875,6 +875,7 @@ java/openjdk21
 java/openjdk21-jre
 java/openjdk25@all
 java/openjdk26@all
+java/openjdk27@all
 java/openjdk8
 java/openjdk8-jre
 lang/duktape
