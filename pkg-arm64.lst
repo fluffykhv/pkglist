@@ -106,6 +106,7 @@ databases/mysqlbackup
 databases/mysqlreport
 databases/mysqlsla
 databases/mysqltuner
+databases/openldap27-server
 databases/p5-DBD-SQLite
 databases/pecl-memcache
 databases/percona-toolkit
@@ -116,11 +117,11 @@ databases/phpminiadmin
 databases/phpmyadmin
 databases/phpmyadmin5
 databases/phppgadmin
-databases/postgresql18-contrib
-databases/postgresql18-plperl
-databases/postgresql18-plpython
-databases/postgresql18-pltcl
-databases/postgresql18-server
+databases/postgresql19-contrib
+databases/postgresql19-plperl
+databases/postgresql19-plpython
+databases/postgresql19-pltcl
+databases/postgresql19-server
 databases/proftpd-mod_sql_mysql
 databases/proftpd-mod_sql_odbc
 databases/proftpd-mod_sql_postgres
@@ -845,7 +846,6 @@ net/messagelib
 net/mpd5
 net/ntp
 net/onedrive
-net/openldap26-server
 net/openntpd
 net/openradius
 net/p5-IO-Socket-IP
