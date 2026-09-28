@@ -1342,6 +1342,7 @@ ports-mgmt/freebsd-bugzilla-cli
 ports-mgmt/octopkg
 ports-mgmt/pkg_replace
 ports-mgmt/pkg-appstream
+ports-mgmt/pkg-be-plugin
 ports-mgmt/pkg-graph
 ports-mgmt/portconfig
 ports-mgmt/portgrep

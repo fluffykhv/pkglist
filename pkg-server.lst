@@ -475,6 +475,8 @@ ports-mgmt/appstream-generator
 ports-mgmt/bsdadminscripts2
 ports-mgmt/distilator
 ports-mgmt/freebsd-bugzilla-cli
+ports-mgmt/pkg-appstream
+ports-mgmt/pkg-be-plugin
 ports-mgmt/pkg-graph
 ports-mgmt/portgrep
 ports-mgmt/portlint

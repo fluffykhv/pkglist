@@ -93,6 +93,7 @@ net/zapret
 net/zapret2
 ports-mgmt/appstream-generator
 ports-mgmt/pkg-appstream
+ports-mgmt/pkg-be-plugin
 ports-mgmt/portconfig
 ports-mgmt/portgrep
 ports-mgmt/portlint
