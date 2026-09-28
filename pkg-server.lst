@@ -178,12 +178,16 @@ devel/wasi-compiler-rt17
 devel/wasi-compiler-rt18
 devel/wasi-compiler-rt19
 devel/wasi-compiler-rt20
+devel/wasi-compiler-rt21
+devel/wasi-compiler-rt22
 devel/wasi-libc
 devel/wasi-libcxx
 devel/wasi-libcxx17
 devel/wasi-libcxx18
 devel/wasi-libcxx19
 devel/wasi-libcxx20
+devel/wasi-libcxx21
+devel/wasi-libcxx22
 dns/adns
 dns/bind920
 dns/bind-tools
