@@ -143,7 +143,6 @@ deskutils/itinerary
 deskutils/kaddressbook
 deskutils/kalarm
 deskutils/kcharselect
-deskutils/kchmviewer
 deskutils/kdeconnect-kde
 deskutils/kdepim
 deskutils/kdepim-addons
@@ -161,7 +160,6 @@ deskutils/kronometer
 deskutils/kruler
 deskutils/ktimetracker
 deskutils/kuserfeedback
-deskutils/latte-dock
 deskutils/libkdepim
 deskutils/lxqt-notificationd
 deskutils/maliit-framework
@@ -178,7 +176,6 @@ deskutils/plasma5-xdg-desktop-portal-kde
 deskutils/presage
 deskutils/qownnotes
 deskutils/qtfeedback
-deskutils/semantik
 deskutils/syncthingtray
 deskutils/uchmviewer
 deskutils/virt-manager
@@ -199,7 +196,6 @@ devel/cmakedoc
 devel/dolphin-plugins
 devel/doxygen
 devel/elf-dissector
-devel/eric6@all
 devel/fnc
 devel/fossil
 devel/gammaray
@@ -306,8 +302,6 @@ devel/py-sip@all
 devel/py-sip4@all
 devel/py-subversion@all
 devel/py-tox@all
-devel/pyside2-tools
-devel/pyside2@all
 devel/qca
 devel/qca@all
 devel/qcoro
@@ -513,7 +507,6 @@ graphics/mesa-gallium-xa
 graphics/okular
 graphics/ospray-studio
 graphics/pecl-imagick@all
-graphics/peruse
 graphics/photivo
 graphics/photoqt
 graphics/poppler
@@ -697,7 +690,6 @@ multimedia/smplayer-skins
 multimedia/smplayer-themes
 multimedia/subtitlecomposer
 multimedia/vlc
-net-im/cutegram
 net-im/finch
 net-im/kaccounts-integration
 net-im/kaccounts-providers
@@ -790,7 +782,6 @@ net/phpldapadmin@all
 net/pimcommon
 net/proftpd-mod_ldap
 net/py-qt5-networkauth
-net/qoauth-qt5
 net/qt5-network
 net/qt5-networkauth
 net/qt6-networkauth
@@ -824,7 +815,6 @@ print/print-manager
 print/py-frescobaldi
 print/qt5-printsupport
 russian/aspell
-russian/eric6
 russian/hunspell
 russian/hyphen
 russian/mythes
@@ -1009,7 +999,6 @@ sysutils/plasma5-kinfocenter
 sysutils/plasma5-kmenuedit
 sysutils/plasma5-ksysguard
 sysutils/plasma5-ksystemstats
-sysutils/plasma5-libksysguard
 sysutils/plasma5-plasma-disks
 sysutils/plasma5-plasma-systemmonitor
 sysutils/plasma5-polkit-kde-agent-1
@@ -1163,7 +1152,6 @@ www/nextcloud-notes@all
 www/nextcloud-tasks@all
 www/nginx
 www/npm
-www/otter-browser
 www/owncloud@all
 www/pecl-http@all
 www/phalcon@all

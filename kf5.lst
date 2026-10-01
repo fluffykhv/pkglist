@@ -59,7 +59,6 @@ deskutils/korganizer
 deskutils/kruler
 deskutils/ktimetracker
 deskutils/kuserfeedback
-deskutils/latte-dock
 deskutils/libkdepim
 deskutils/lxqt-notificationd
 deskutils/mbox-importer
@@ -69,7 +68,6 @@ deskutils/pim-sieve-editor
 deskutils/plasma5-milou
 deskutils/plasma5-sddm-kcm
 deskutils/plasma5-xdg-desktop-portal-kde
-deskutils/semantik
 deskutils/syncthingtray
 deskutils/zanshin
 devel/cervisia
@@ -218,7 +216,6 @@ graphics/libkexiv2
 graphics/libkipi
 graphics/libksane
 graphics/okular
-graphics/peruse
 graphics/seexpr
 graphics/showimage
 graphics/skanlite
@@ -387,7 +384,6 @@ sysutils/plasma5-kinfocenter
 sysutils/plasma5-kmenuedit
 sysutils/plasma5-ksysguard
 sysutils/plasma5-ksystemstats
-sysutils/plasma5-libksysguard
 sysutils/plasma5-plasma-disks
 sysutils/plasma5-plasma-systemmonitor
 sysutils/plasma5-polkit-kde-agent-1

@@ -157,7 +157,6 @@ deskutils/itinerary
 deskutils/kaddressbook
 deskutils/kalarm
 deskutils/kcharselect
-deskutils/kchmviewer
 deskutils/kdeconnect-kde
 deskutils/kdepim
 deskutils/kdepim-addons
@@ -174,7 +173,6 @@ deskutils/korganizer
 deskutils/kronometer
 deskutils/kruler
 deskutils/ktimetracker
-deskutils/latte-dock
 deskutils/libkdepim
 deskutils/lxqt-notificationd
 deskutils/maliit-framework
@@ -191,7 +189,6 @@ deskutils/plasma6-xdg-desktop-portal-kde
 deskutils/presage
 deskutils/qownnotes
 deskutils/qtfeedback
-deskutils/semantik
 deskutils/syncthingtray
 deskutils/uchmviewer
 deskutils/virt-manager
@@ -321,8 +318,6 @@ devel/plasma6-kwrited
 devel/plasma6-plasma5support
 devel/plasma6-plasma-sdk
 devel/poxml
-devel/pyside2
-devel/pyside2-tools
 devel/pyside6
 devel/pyside6-tools
 devel/py-buildbot
@@ -578,7 +573,6 @@ graphics/okular
 graphics/ospray-studio
 graphics/p5-Image-Imlib2
 graphics/pecl-imagick
-graphics/peruse
 graphics/photivo
 graphics/photoqt
 graphics/plasma6-spectacle
@@ -764,7 +758,6 @@ multimedia/svt-av1
 multimedia/svt-hevc
 multimedia/svt-vp9
 multimedia/vlc
-net-im/cutegram
 net-im/finch
 net-im/flare
 net-im/kaccounts-integration
@@ -853,7 +846,6 @@ net/phpldapadmin
 net/pimcommon
 net/proftpd-mod_ldap
 net/py-qt5-networkauth
-net/qoauth-qt5
 net/qt5-network
 net/qt5-networkauth
 net/qt6-coap

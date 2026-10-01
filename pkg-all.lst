@@ -232,7 +232,6 @@ deskutils/itinerary
 deskutils/kaddressbook
 deskutils/kalarm
 deskutils/kcharselect
-deskutils/kchmviewer
 deskutils/kdeconnect-kde
 deskutils/kdepim
 deskutils/kdepim-addons
@@ -249,7 +248,6 @@ deskutils/korganizer
 deskutils/kronometer
 deskutils/kruler
 deskutils/ktimetracker
-deskutils/latte-dock
 deskutils/libkdepim
 deskutils/libportal-qt6
 deskutils/lumina-photo
@@ -269,7 +267,6 @@ deskutils/presage
 deskutils/qmediamanager
 deskutils/qownnotes
 deskutils/qtfeedback
-deskutils/semantik
 deskutils/syncthingtray
 deskutils/uchmviewer
 deskutils/virt-manager
@@ -481,8 +478,6 @@ devel/py-tox
 devel/py-traceback2
 devel/py-unittest2
 devel/py-wheel
-devel/pyside2
-devel/pyside2-tools
 devel/pyside6
 devel/pyside6-tools
 devel/qca@all
@@ -818,7 +813,6 @@ graphics/okular
 graphics/ospray-studio
 graphics/p5-Image-Imlib2
 graphics/pecl-imagick
-graphics/peruse
 graphics/photivo
 graphics/photoqt
 graphics/plasma6-spectacle
@@ -905,7 +899,6 @@ lang/python
 lang/python2
 lang/python27
 lang/python3
-lang/python310
 lang/python311
 lang/python312
 lang/python314
@@ -1123,7 +1116,6 @@ multimedia/svt-hevc
 multimedia/svt-vp9
 multimedia/v4l-utils
 multimedia/vlc
-net-im/cutegram
 net-im/finch
 net-im/flare
 net-im/kaccounts-integration
@@ -1315,7 +1307,6 @@ net/pimcommon
 net/proftpd-mod_ldap
 net/py-qt5-networkauth
 net/py-qt6-networkauth
-net/qoauth-qt5
 net/qt5-network
 net/qt5-networkauth
 net/qt6-coap
@@ -1371,7 +1362,6 @@ print/py-frescobaldi
 print/qt5-printsupport
 print/qt6-pdf
 russian/aspell
-russian/eric6
 russian/hunspell
 russian/hyphen
 russian/mythes
@@ -1603,7 +1593,6 @@ sysutils/pftables
 sysutils/pftop
 sysutils/pidof
 sysutils/plasma-pass
-sysutils/plasma5-libksysguard
 sysutils/plasma6-discover
 sysutils/plasma6-kde-cli-tools
 sysutils/plasma6-kinfocenter
@@ -1812,7 +1801,6 @@ www/nextcloud-notes
 www/nextcloud-tasks
 www/nginx
 www/npm
-www/otter-browser
 www/owncloud
 www/owncloud@all
 www/p5-HTTP-Daemon
