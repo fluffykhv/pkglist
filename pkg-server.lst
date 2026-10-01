@@ -347,6 +347,7 @@ misc/compat11x
 misc/compat12x
 misc/compat13x
 misc/compat14x
+misc/compat15x
 misc/deco
 misc/far2l
 misc/freebsd-doc-all
@@ -355,6 +356,7 @@ misc/pastebinit
 misc/py-powerline-status
 misc/sfm
 net-im/finch
+net-im/nextcloud-talk
 net-mgmt/argus
 net-mgmt/argus-clients
 net-mgmt/arpwatch

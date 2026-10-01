@@ -1126,6 +1126,7 @@ net-im/libaccounts-qt
 net-im/libaccounts-qt@all
 net-im/libsignon-glib
 net-im/neochat
+net-im/nextcloud-talk
 net-im/pidgin-skypeweb
 net-im/psi
 net-im/qTox
