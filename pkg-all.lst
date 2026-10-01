@@ -1821,10 +1821,8 @@ www/py-django60
 www/py-django61
 www/py-flask-admin
 www/py-graphite-api
-www/py-qt5-webengine
 www/py-qt6-webengine
 www/qt5-webchannel
-www/qt5-webengine
 www/qt5-webglplugin
 www/qt5-websockets
 www/qt5-websockets-qml
