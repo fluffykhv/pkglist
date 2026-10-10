@@ -1697,7 +1697,6 @@ textproc/libkomparediff2
 textproc/libxml2-python
 textproc/markdownpart
 textproc/minixmlto
-textproc/obsidian
 textproc/odt2txt
 textproc/openjade
 textproc/p5-YAML-LibYAML
@@ -1860,7 +1859,6 @@ www/tomcat-native
 www/tomcat101
 www/tomcat110
 www/tomcat9
-www/ungoogled-chromium
 www/varnish7
 www/webpy
 www/wordpress
