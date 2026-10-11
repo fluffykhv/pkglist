@@ -1155,11 +1155,10 @@ net-mgmt/icingaweb2-module-fileshipper
 net-mgmt/icingaweb2-module-generictts
 net-mgmt/icingaweb2-module-grafana
 net-mgmt/icingaweb2-module-graphite
-net-mgmt/icingaweb2-module-idoreports@all
+net-mgmt/icingaweb2-module-idoreports
 net-mgmt/icingaweb2-module-map
-net-mgmt/icingaweb2-module-pdfexport@all
 net-mgmt/icingaweb2-module-reactbundle
-net-mgmt/icingaweb2-module-reporting@all
+net-mgmt/icingaweb2-module-reporting
 net-mgmt/icingaweb2-module-vsphere
 net-mgmt/iftop
 net-mgmt/iprange
