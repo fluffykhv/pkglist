@@ -879,10 +879,6 @@ java/openjdk8-jre
 lang/duktape
 lang/fpc
 lang/gawk
-lang/gcc12
-lang/gcc13
-lang/gcc14
-lang/gcc6-aux
 lang/kturtle
 lang/lfortran
 lang/luajit
