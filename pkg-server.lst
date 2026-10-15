@@ -329,7 +329,6 @@ mail/roundcube-sauserprefs
 mail/roundcube-thunderbird_labels
 mail/roundcube-veximaccountadmin
 mail/rspamd
-mail/rspamd-devel
 mail/sa-utils
 mail/snappymail
 mail/spamassassin

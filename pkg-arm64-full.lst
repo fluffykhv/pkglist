@@ -603,7 +603,6 @@ mail/roundcube-thunderbird_labels@all
 mail/roundcube-veximaccountadmin@all
 mail/roundcube@all
 mail/rspamd
-mail/rspamd-devel
 mail/sa-utils
 mail/snappymail@all
 mail/spamass-ixhash
