@@ -48,7 +48,7 @@ databases/foundationdb73-client
 databases/foundationdb73-server
 databases/galera26
 databases/grass8
-databases/mongodb50
+databases/mongodb70
 databases/mysql-connector-c++
 databases/pgrouting
 databases/sfcgal
@@ -64,7 +64,6 @@ devel/boost-mpi-libs
 devel/boost-python-libs
 devel/codeblocks
 devel/collada-dom
-devel/cpp-netlib
 devel/cpp-utilities
 devel/cpprestsdk
 devel/fbthrift
@@ -84,7 +83,6 @@ devel/nextpnr
 devel/phasar
 devel/pika
 devel/py-pynest2d
-devel/RStudio
 devel/simgear
 devel/thrift-cpp
 devel/ticcutils
@@ -108,22 +106,19 @@ finance/quickfix
 games/0ad
 games/alephone
 games/bastet
-games/burrtools
+games/burr-tools
 games/colobot
 games/domino-chain
 games/flightgear
 games/freeorion
-games/frogatto
 games/glob2
 games/leela-zero
 games/lgogdownloader
 games/openmw
-games/pokerth
 games/py-fife
 games/scummvm-tools
 games/supertux2
 games/traingame
-games/valyriatear
 games/vamos
 games/vcmi
 games/violetland
@@ -145,7 +140,6 @@ graphics/krita
 graphics/libetonyek01
 graphics/mapnik
 graphics/msl
-graphics/natron
 graphics/openimageio
 graphics/openmvs
 graphics/openshadinglanguage
@@ -213,7 +207,6 @@ net-p2p/bitcoin
 net-p2p/bitcoin-daemon
 net-p2p/bitcoin-utils
 net-p2p/eiskaltdcpp-lib
-net-p2p/libtorrent-rasterbar
 net-p2p/libtorrent-rasterbar2
 net-p2p/litecoin
 net-p2p/litecoin-daemon
@@ -277,7 +270,6 @@ sysutils/frand
 sysutils/glogg
 sysutils/logstalgia
 sysutils/nix
-sysutils/twmn
 textproc/cg3
 textproc/libixion
 textproc/libkolabxml
