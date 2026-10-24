@@ -313,7 +313,6 @@ devel/qt6-tools
 devel/qt6-translations
 devel/qtcreator
 devel/rttr
-devel/shiboken2
 devel/spdlog
 devel/svn2git
 devel/umbrello
