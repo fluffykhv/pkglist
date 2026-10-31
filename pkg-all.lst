@@ -321,7 +321,6 @@ devel/gitui
 devel/glab
 devel/glibmm
 devel/glibmm26
-devel/grantlee5
 devel/gstreamer1-devtools
 devel/gstreamer1-plugins-soup
 devel/gwenhywfar-qt6
@@ -1002,9 +1001,6 @@ misc/fortune-mod-futurama
 misc/fortune-mod-psalms
 misc/freebsd-doc-all
 misc/hyprqt6engine
-misc/kde-thumbnailer-chm
-misc/kde-thumbnailer-epub
-misc/kde-thumbnailer-fb2
 misc/kdeedu
 misc/kdeedu-data
 misc/kdeutils
@@ -1762,7 +1758,6 @@ www/mod_auth_openidc
 www/mod_auth_pam2
 www/mod_auth_pgsql2
 www/mod_authn_dovecot
-www/mod_dnssd
 www/mod_fastcgi
 www/mod_fcgid
 www/mod_gnutls
@@ -1785,7 +1780,6 @@ www/mod_wsgi
 www/mod_wsgi@all
 www/mod_xsendfile
 www/moodle45
-www/moodle50
 www/moodle51
 www/nextcloud-appointments
 www/nextcloud-calendar
@@ -1972,7 +1966,6 @@ x11-toolkits/kf6-kjobwidgets
 x11-toolkits/kf6-ktextwidgets
 x11-toolkits/kf6-kwidgetsaddons
 x11-toolkits/kf6-kxmlgui
-x11-toolkits/kirigami-addons-qt5
 x11-toolkits/kirigami-addons-qt6
 x11-toolkits/kproperty
 x11-toolkits/plasma6-kdeplasma-addons

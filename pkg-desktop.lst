@@ -189,7 +189,6 @@ devel/git-gui
 devel/git-lab
 devel/gitg
 devel/gitqlient
-devel/grantlee5
 devel/gstreamer1-devtools
 devel/gstreamer1-plugins-soup
 devel/gwenhywfar-qt6
@@ -552,9 +551,6 @@ math/rocs
 misc/artikulate
 misc/bibletime
 misc/hyprqt6engine
-misc/kde-thumbnailer-chm
-misc/kde-thumbnailer-epub
-misc/kde-thumbnailer-fb2
 misc/kdeedu
 misc/kdeedu-data
 misc/kdeutils
@@ -999,7 +995,6 @@ x11-toolkits/kf6-kjobwidgets
 x11-toolkits/kf6-ktextwidgets
 x11-toolkits/kf6-kwidgetsaddons
 x11-toolkits/kf6-kxmlgui
-x11-toolkits/kirigami-addons-qt5
 x11-toolkits/kirigami-addons-qt6
 x11-toolkits/kproperty
 x11-toolkits/plasma6-kdeplasma-addons

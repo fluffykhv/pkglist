@@ -208,7 +208,6 @@ devel/git-lfs
 devel/gitg
 devel/glibmm
 devel/glibmm26
-devel/grantlee5
 devel/heaptrack
 devel/injeqt
 devel/ipython@all
@@ -638,9 +637,6 @@ misc/fortune-mod-freebsd-classic
 misc/fortune-mod-futurama
 misc/fortune-mod-psalms
 misc/freebsd-doc-all
-misc/kde-thumbnailer-chm
-misc/kde-thumbnailer-epub
-misc/kde-thumbnailer-fb2
 misc/kdeedu
 misc/kdeedu-data
 misc/kdeutils
@@ -1120,7 +1116,6 @@ www/mod_auth_openidc
 www/mod_auth_pam2
 www/mod_auth_pgsql2
 www/mod_authn_dovecot
-www/mod_dnssd
 www/mod_fastcgi
 www/mod_fcgid
 www/mod_gnutls

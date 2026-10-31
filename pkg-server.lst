@@ -735,7 +735,6 @@ www/mod_auth_mysql2
 www/mod_auth_openidc
 www/mod_auth_pam2
 www/mod_auth_pgsql2
-www/mod_dnssd
 www/mod_fastcgi
 www/mod_fcgid
 www/mod_gnutls
@@ -757,7 +756,6 @@ www/mod_webauth
 www/mod_wsgi
 www/mod_xsendfile
 www/moodle45
-www/moodle50
 www/moodle51
 www/nextcloud-appointments
 www/nextcloud-calendar

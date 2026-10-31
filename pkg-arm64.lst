@@ -237,7 +237,6 @@ devel/gitui
 devel/glab
 devel/glibmm
 devel/glibmm26
-devel/grantlee5
 devel/heaptrack
 devel/injeqt
 devel/ipython
@@ -706,9 +705,6 @@ misc/freebsd-doc-all
 misc/kdeedu
 misc/kdeedu-data
 misc/kdeutils
-misc/kde-thumbnailer-chm
-misc/kde-thumbnailer-epub
-misc/kde-thumbnailer-fb2
 misc/kf6-purpose
 misc/kgeography
 misc/klettres
@@ -1191,7 +1187,6 @@ www/mod_auth_mysql2
 www/mod_auth_openidc
 www/mod_auth_pam2
 www/mod_auth_pgsql2
-www/mod_dnssd
 www/mod_fastcgi
 www/mod_fcgid
 www/mod_gnutls
@@ -1213,7 +1208,6 @@ www/mod_webauth
 www/mod_wsgi@all
 www/mod_xsendfile
 www/moodle45
-www/moodle50
 www/nextcloud-calendar
 www/nextcloud-contacts
 www/nextcloud-notes
