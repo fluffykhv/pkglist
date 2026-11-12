@@ -484,6 +484,7 @@ ports-mgmt/freebsd-bugzilla-cli
 ports-mgmt/pkg-appstream
 ports-mgmt/pkg-be-plugin
 ports-mgmt/pkg-graph
+ports-mgmt/pkgfe
 ports-mgmt/portgrep
 ports-mgmt/portlint
 ports-mgmt/ports-tools

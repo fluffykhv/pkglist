@@ -789,6 +789,7 @@ sysutils/calamares
 sysutils/debootstrap
 sysutils/desktop-installer
 sysutils/edid-decode
+sysutils/fastfetch
 sysutils/filelight
 sysutils/gstreamer1-plugins-cdio
 sysutils/k3b

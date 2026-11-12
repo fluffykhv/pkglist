@@ -860,6 +860,7 @@ ports-mgmt/octopkg
 ports-mgmt/pkg-appstream
 ports-mgmt/pkg-graph
 ports-mgmt/pkg_replace
+ports-mgmt/pkgfe
 ports-mgmt/portgrep
 ports-mgmt/portlint
 ports-mgmt/ports-tools
