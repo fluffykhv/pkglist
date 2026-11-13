@@ -504,6 +504,7 @@ russian/wordpress
 science/py-dlib
 security/acme.sh
 security/acmetool
+security/autossh
 security/clamav
 security/expiretable
 security/gnupg

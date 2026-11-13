@@ -109,6 +109,7 @@ russian/aspell
 russian/hunspell
 russian/hyphen
 russian/mythes
+security/autossh
 security/doas
 security/gnupg
 security/gnutls

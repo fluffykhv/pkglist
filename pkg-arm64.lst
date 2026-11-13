@@ -894,6 +894,7 @@ science/sigrok-cli
 science/step
 security/acme.sh
 security/acmetool
+security/autossh
 security/clamav
 security/doas
 security/expiretable
