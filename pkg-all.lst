@@ -358,6 +358,7 @@ devel/kf6-kdbusaddons
 devel/kf6-kdeclarative
 devel/kf6-kdoctools
 devel/kf6-kfilemetadata
+devel/kf6-kfilemetadata-plugins
 devel/kf6-ki18n
 devel/kf6-kidletime
 devel/kf6-kio
