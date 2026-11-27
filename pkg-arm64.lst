@@ -673,7 +673,6 @@ mail/snappymail
 mail/spamassassin
 mail/spamass-ixhash
 mail/spamass-rules
-mail/spamd
 mail/sympa
 mail/vexim
 math/analitza

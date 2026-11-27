@@ -605,7 +605,6 @@ mail/snappymail@all
 mail/spamass-ixhash
 mail/spamass-rules
 mail/spamassassin
-mail/spamd
 mail/sympa
 mail/thunderbird
 mail/thunderbird-dictionaries

@@ -971,7 +971,6 @@ mail/snappymail
 mail/spamass-ixhash
 mail/spamass-rules
 mail/spamassassin
-mail/spamd
 mail/stalwart
 mail/stalwart-cli
 mail/sympa
